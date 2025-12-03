@@ -54,7 +54,7 @@ Redogör för de olika stegen i denna process utifrån följande punkter: 9
 _Använd 3-5 meningar per steg._ 13
 
 > [!NOTE] Svar 4
-> A) nervcellen tar emot stimulerande och hämmande signaler. Dessa summeras vid axonhalsen. 
+> A) nervcellen tar emot stimulerande och hämmande signaler via sina dendriter och cellkropp. Dessa summeras vid axonhalsen, om summan av signaler leder till att membranpotentialen depolariseras tillräckligt mycket (-60 mV) startar en kjedereaktion,
 
 
 ---

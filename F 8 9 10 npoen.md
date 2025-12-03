@@ -542,3 +542,673 @@ Styr kroppens inre miljö (homeostas), icke-viljestyrt.
     - Neurotransmittorer: Acetylkolin (preganglionär) $\rightarrow$ **Acetylkolin** (postganglionär).
         
     - _Effekter:_ Sänkt hjärtfrekvens, drar ihop luftvägar, ökad matsmältning 37
+      
+
+
+# Föreläsningsanteckningar: Människans Andningssystem
+
+## 1. Introduktion och Övergripande Funktion
+
+Andningssystemet och cirkulationssystemet samverkar intimt för att upprätthålla cellernas metabolism genom gasutbyte. Denna infrastruktur är avgörande för överlevnad, då kroppens vävnader riskerar skador eller nekros om gasutbytet fallerar.
+
+### 1.1 Syftet med gasutbytet
+
+Huvuduppgiften är att transportera syrgas ($O_2$) från atmosfären till cellerna och koldioxid ($CO_2$) från cellerna till atmosfären1111.
+
+- **Syrgas:** Krävs för cellernas energiproduktion (cellandningen).
+    
+- **Koldioxid:** En restprodukt från metabolismen som måste vädras ut för att undvika acidos (försurning).
+    
+
+### 1.2 Översikt av transportkedjan
+
+Processen kan delas in i fyra distinkta steg där systemen samarbetar22222222222:
+
+1. **Ventilation:** Luft transporteras mellan atmosfären och lungblåsorna (alveolerna) via luftvägarna.
+    
+2. **Externt gasutbyte:** Diffusion av $O_2$ från alveol till lungkapillär och $CO_2$ från lungkapillär till alveol.
+    
+3. **Gastransport i blodet:** Cirkulationssystemet fraktar gaserna mellan lungorna och kroppens vävnader (systemkretsloppet).
+    
+4. **Internt gasutbyte:** Diffusion av $O_2$ från vävnadskapillär till cell och $CO_2$ från cell till vävnadskapillär.
+    
+
+**Flödesschema: Gasutbytets kedja**
+
+Code snippet
+
+```
+graph LR
+    A[Atmosfär] -->|Ventilation| B[Alveoler]
+    B -->|Diffusion| C[Lungkapillärer]
+    C -->|Cirkulation| D[Vävnadskapillärer]
+    D -->|Diffusion| E[Celler]
+    E -.->|CO2 Produktion| D
+    D -.->|Cirkulation| C
+    C -.->|Diffusion| B
+    B -.->|Ventilation| A
+```
+
+3333333333333333
+
+---
+
+## 2. Kemiska Förutsättningar för Gasutbyte
+
+Förståelsen för gasutbytet kräver insikt i gasernas kemiska egenskaper, särskilt deras löslighet och interaktion med biologiska membran.
+
+- **Hydrofoba egenskaper:** Både $O_2$ och $CO_2$ är hydrofoba (vattenavstötande).
+    
+    - _$O_2$:_ Består av opolära kovalenta bindningar4.
+        
+    - _$CO_2$:_ Har polära bindningar, men molekylens linjära struktur gör att dipolmomenten tar ut varandra, vilket ger en övergripande opolär karaktär5.
+        
+- **Konsekvenser för fysiologin:**
+    
+    1. **Möjlighet:** Båda gaserna kan fritt och snabbt diffundera genom cellernas fosfolipidmembran (t.ex. över alveol- och kapillärväggar)6.
+        
+    2. **Begränsning:** De löser sig mycket dåligt i blodplasman (som är vattenbaserad). Detta nödvändiggör specialiserade transportsystem (som hemoglobin) för att frakta tillräckliga mängder gas i blodet777.
+        
+
+---
+
+## 3. Andningssystemets Anatomi
+
+Anatomin är uppdelad i övre och nedre luftvägar samt själva lungvävnaden där gasutbytet sker.
+
+### 3.1 Övre luftvägarna
+
+Dessa strukturer ansvarar för att rena, fukta och värma inkommande luft innan den når de känsliga lungorna8.
+
+- **Näshålan (_Cavum nasi_):** Beklädd med slemhinna och näshår som fångar partiklar. Har riklig blodförsörjning (näsmusslor) för att värma luften9999.
+    
+- **Bihålor (_Sinus_):** Luftfyllda hålrum i kraniet (t.ex. _Sinus frontalis_, _Sinus maxillaris_) som mynnar i näshålan101010101010101010.
+    
+- **Svalget (_Pharynx_):** Gemensam passage för luft och föda. Leder ner mot struphuvudet11111111.
+    
+
+### 3.2 Nedre luftvägarna
+
+Här börjar transporten ner mot lungorna.
+
+- **Struphuvudet (_Larynx_):** Innehåller stämbanden (_plicae vocales_) och skyddas av struplocket (_epiglottis_) som stänger luftvägen vid sväljning för att förhindra aspiration12121212.
+    
+    - _Anatomi:_ Uppbyggt av brosk, inklusive sköldbrosk ("Adamsäpplet") och ringbrosk13131313.
+        
+- **Luftstrupen (_Trachea_):** Ett rör förstärkt med broskringar som förhindrar kollaps vid undertryck. Delar sig i två huvudbronker14141414.
+    
+- **Bronkialträdet:**
+    
+    - _Huvudbronker:_ En till varje lunga (höger och vänster)15151515.
+        
+    - _Bronker:_ Förgreningar inuti lungan som innehåller brosk16161616.
+        
+    - _Bronkioler:_ Mindre förgreningar utan brosk, men med glatt muskulatur som kan reglera luftflödet17171717.
+        
+    - _Respiratoriska bronkioler:_ De allra minsta grenarna som mynnar i alveoler18.
+        
+
+### 3.3 Det Respiratoriska Epitelet
+
+Luftvägarna (ner till bronkiolerna) är beklädda med ett specialiserat epitel som fungerar som en skyddsbarriär19.
+
+- **Bägarceller:** Producerar slem (ca 1 liter/dygn) som fångar upp damm, bakterier och partiklar20202020.
+    
+- **Cilierade celler:** Har flimmerhår (cilier) som slår synkroniserat (flera mm/sekund) för att transportera slemmet upp mot svalget. Där sväljs det ner och patogener oskadliggörs av magsyran21212121.
+    
+    - _Patologi:_ Rökning och avgaser kan förlama eller döda cilierna. De ersätts då ofta av fler bägarceller, vilket leder till ökad slemproduktion men sämre rensning (rökhosta)22.
+        
+
+---
+
+## 4. Alveolerna och Gasutbytet
+
+Alveolerna (lungblåsorna) är platsen för det faktiska gasutbytet. En vuxen människa har ca 200 miljoner alveoler per lunga, vilket ger en enorm yta för diffusion23.
+
+### 4.1 Alveolens struktur
+
+Alveolväggen är extremt tunn (<100 µm total barriär till blodet) för att maximera diffusionshastigheten24.
+
+- **Typ 1-celler:** Extremt tunna epitelceller som utgör majoriteten av väggen och möjliggör gasutbytet25.
+    
+- **Typ 2-celler:** Producerar _surfaktant_26.
+    
+- **Alveolmakrofager:** Immunceller som "patrullerar" alveolen och fagocyterar ("äter upp") främmande partiklar som tagit sig förbi slembarriären27.
+    
+
+### 4.2 Ytspänning och Surfaktant
+
+Alveolens insida är täckt av en tunn vätskehinna. Vattenmolekylerna i denna hinna vill bilda vätebindningar med varandra, vilket skapar en ytspänning som strävar efter att dra ihop alveolen (kollaps)28.
+
+- **Problem:** Utan motverkande kraft skulle alveolerna kollapsa vid utandning, vilket skulle göra det omöjligt att andas in igen.
+    
+- **Lösning (Surfaktant):** Ett amfifatiskt ämne (har både hydrofil och hydrofob del) som produceras av Typ 2-celler. Surfaktanten lägger sig som en hinna mellan vattnet och luften, vilket bryter vattnets ytspänning och förhindrar alveolär kollaps29.
+    
+
+---
+
+## 5. Lungmekanik och Ventilation
+
+Ventilationen drivs av tryckskillnader mellan atmosfären ($P_{atm}$) och alveolerna ($P_{alv}$). Luft flödar alltid från högre till lägre tryck30.
+
+### 5.1 Boyles lag och tryckförändringar
+
+Principen bygger på att om volymen på en behållare (lungorna) ökar, så minskar trycket inuti den (och vice versa).
+
+- **Inandning (Inspiration):**
+    
+    1. Bröstkorgens volym ökar (aktiv muskelprocess).
+        
+    2. Lungornas volym ökar (eftersom de är fästa vid bröstkorgen).
+        
+    3. $P_{alv}$ sjunker och blir lägre än $P_{atm}$ ($P_{atm} > P_{alv}$).
+        
+    4. Luft sugs in i lungorna för att utjämna tryckskillnaden31313131.
+        
+- **Utandning (Exspiration):**
+    
+    1. Bröstkorgens volym minskar (passiv process vid vila).
+        
+    2. Lungornas volym minskar.
+        
+    3. $P_{alv}$ stiger och blir högre än $P_{atm}$ ($P_{atm} < P_{alv}$).
+        
+    4. Luft pressas ut ur lungorna32.
+        
+
+### 5.2 Andningsmuskulatur
+
+- **Diafragman (Mellangärdet):** Den viktigaste inandningsmuskeln (står för ca 70% av ventilationen i vila). Vid kontraktion rör den sig nedåt och plattas ut, vilket ökar bröstkorgens vertikala volym och trycker bukinnehållet nedåt33333333.
+    
+- **Yttre interkostalmuskler:** Sitter mellan revbenen. Vid kontraktion lyfter de revbenen uppåt/utåt, vilket ökar bröstkorgens bredd och djup34343434.
+    
+- **Utandningsmuskler (vid ansträngning):** Vid forcerad utandning (träning, hosta) används _inre interkostalmuskler_ och _bukväggsmuskulatur_ för att aktivt minska bröstkorgens volym snabbare35353535.
+    
+
+### 5.3 Lungsäcken (Pleura)
+
+Lungsäcken kopplar lungan mekaniskt till bröstkorgen. Den består av två blad:
+
+1. **Viscerala bladet:** Fäster mot lungvävnaden36.
+    
+2. **Parietala bladet:** Fäster mot bröstkorgens insida och diafragman37.
+    
+
+- **Pleurahålan:** En smal spalt mellan bladen innehållande pleuravätska. Vätskan skapar en friktionsfri glidyta och, viktigast av allt, ett undertryck ("sug") som gör att lungan tvingas följa med när bröstkorgen expanderar. Utan detta skulle lungan kollapsa (pneumothorax)38383838.
+    
+
+### 5.4 Döda rummet
+
+"Döda rummet" är de delar av luftvägarna där inget gasutbyte sker (näsa, svalg, trachea, bronker)39.
+
+- Volymen är ca 150 ml.
+    
+- Vid ett normalt andetag på 500 ml når endast 350 ml alveolerna. Resten stannar i döda rummet.
+    
+- Detta innebär att luften i alveolerna är en blandning av ny luft och "gammal" luft, vilket sänker syrgashalten jämfört med atmosfären404040404040404040.
+    
+
+---
+
+## 6. Transport av Blodgaser
+
+Blodet transporterar syre och koldioxid mellan lungor och vävnader. Systemet utnyttjar både fysikalisk lösning och kemisk bindning.
+
+### 6.1 Transport av Syrgas ($O_2$)
+
+Syrgas transporteras på två sätt:
+
+1. **Fysikaliskt löst:** Endast ca 1,5% p.g.a. låg löslighet i plasma41.
+    
+2. **Bundet till hemoglobin:** Ca 98,5% av syret transporteras bundet till järnatomer i de röda blodkropparnas hemoglobin42.
+    
+
+**Hemoglobinets funktion:**
+
+- Varje hemoglobinmolekyl har 4 hemgrupper med järn ($Fe^{2+}$) som kan binda varsin $O_2$-molekyl43434343.
+    
+- **Syremättnad:** Bindningen är kooperativ – när en molekyl binder blir det lättare för nästa att binda. Detta ger en S-formad bindningskurva (se 6.3).
+    
+- En erytrocyt innehåller >250 miljoner hemoglobinmolekyler och kan frakta över en miljard $O_2$-molekyler44.
+    
+
+### 6.2 Transport av Koldioxid ($CO_2$)
+
+Koldioxid transporteras på tre sätt45454545:
+
+1. **Fysikaliskt löst:** Ca 10% löst i plasman.
+    
+2. **Bundet till hemoglobin:** Ca 20% binder till proteinkedjorna (inte järnet) på hemoglobinet ($HbCO_2$).
+    
+3. **Som vätekarbonat ($HCO_3^-$):** Ca 70% (Majoriteten).
+    
+
+Bikarbonatbufferten (Viktig reaktion!):
+
+Inne i erytrocyten omvandlas $CO_2$ enligt formeln:
+
+$$CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons HCO_3^- + H^+$$
+
+- Steget $CO_2 + H_2O$ till kolsyra ($H_2CO_3$) katalyseras snabbt av enzymet **karbanhydras**46.
+    
+- Vätekarbonatjonen ($HCO_3^-$) transporteras ut i plasman och fungerar som en pH-buffert, medan $H^+$ binds till hemoglobin (buffras) för att inte sänka pH för mycket inuti cellen.
+    
+- I lungan går reaktionen åt motsatt håll: $HCO_3^-$ går in i erytrocyten, blir till $CO_2$, som diffunderar ut i alveolen47.
+    
+
+### 6.3 Syre-Hemoglobin Dissociationskurvan & Bohr-effekten
+
+Hemoglobinets förmåga att binda syre varierar beroende på miljön.
+
+- **I lungan (högt $pO_2$, normalt pH):** Hemoglobin binder syre hårt (mättnad nära 100%).
+    
+- **I vävnad (lägre $pO_2$):** Hemoglobin släpper syre.
+    
+- **Bohr-effekten (Vävnad i arbete):** I arbetande vävnad (t.ex. muskler) är pH lägre (mer $H^+$ och $CO_2$) och temperaturen högre. Detta _minskar_ hemoglobinets affinitet för syre. Resultatet är att hemoglobinet släpper ifrån sig _mer_ syre precis där det behövs som mest484848484848484848.
+    
+    - _Vila:_ Ca 1 $O_2$ molekyl avges per hemoglobin.
+        
+    - _Hårt arbete:_ Upp till 3 $O_2$ molekyler avges49494949.
+        
+
+---
+
+## 7. Reglering av Andningen
+
+Andningen regleras automatiskt för att hålla blodgaserna ($pO_2$, $pCO_2$) och pH stabila.
+
+### 7.1 Andningscentrum
+
+Beläget i hjärstammen (förlängda märgen och hjärnbryggan). Här genereras den rytmiska signalen som via nerver (t.ex. _Nervus phrenicus_ till diafragman) styr inandningsmusklerna505050505050505050.
+
+### 7.2 Kemoreceptorer
+
+Kroppen mäter blodets sammansättning via sensorer:
+
+1. **Centrala kemoreceptorer (i hjärnstammen):**
+    
+    - Känner primärt av **$pCO_2$** (indirekt via pH-förändringar i cerebrospinalvätskan).
+        
+    - Om $CO_2$ stiger (surt pH), signalerar de till andningscentrum att öka ventilationen för att vädra ut $CO_2$51515151.
+        
+    - Detta är den _starkaste_ drivkraften för andning under normala förhållanden.
+        
+2. **Perifera kemoreceptorer (i aortabågen och halspulsådern):**
+    
+    - Känner av $pO_2$, $pCO_2$ och pH.
+        
+    - Reagerar främst på kraftigt sjunkande syrenivåer eller snabba pH-fall52.
+        
+
+Regleringsloop (Negativ feedback):
+
+Ökad metabolism $\rightarrow$ Högt $pCO_2$/Lågt pH $\rightarrow$ Kemoreceptorer aktiveras $\rightarrow$ Andningscentrum ökar frekvens/djup $\rightarrow$ Utvädring av $CO_2$ $\rightarrow$ Normalisering av blodgaser53.
+
+---
+
+## 8. Patologi och Mätmetoder
+
+### 8.1 Spirometri (Lungfunktionsmätning)
+
+Används för att mäta lungvolymer54:
+
+- **Tidalvolym (TV):** Normalt andetag i vila (ca 0,5 liter)55.
+    
+- **Inspiratorisk reservvolym (IRV):** Maximal inandning efter en normal inandning (ca 3 liter)56.
+    
+- **Exspiratorisk reservvolym (ERV):** Maximal utandning efter en normal utandning (ca 1,5 liter)57.
+    
+- **Residualvolym (RV):** Luften kvar i lungan efter maximal utandning (ca 1 liter). Kan ej mätas direkt med enkel spirometri58.
+    
+- **Vitalkapacitet (VC):** Maximal volym som kan ventileras (TV + IRV + ERV = ca 5 liter)59.
+    
+
+### 8.2 KOL (Kronisk Obstruktiv Lungsjukdom)
+
+En sjukdom som drabbar ca 5-10% av befolkningen, främst rökare. Det är en kombination av två tillstånd60:
+
+1. **Kronisk bronkit:** Inflammation i bronkerna leder till förtjockade slemhinnor, ökad slemproduktion och kontraktion av glatt muskulatur. Detta ökar luftvägsmotståndet (svårt att få luft in/ut)61616161.
+    
+2. **Emfysem:** Nedbrytning av alveolväggarna. Detta leder till:
+    
+    - Minskad yta för gasutbyte (sämre syresättning).
+        
+    - Minskad elasticitet i lungvävnaden (svårt att andas ut, luften "fastnar")62626262.
+
+
+
+Här är extremt detaljerade föreläsningsanteckningar på universitetsnivå, baserade på det uppladdade materialet. Anteckningarna täcker anatomi, fysiologi, reglering och patologi kopplat till andningssystemet.
+
+---
+
+# Föreläsningsanteckningar: Människans Andningssystem
+
+## 1. Introduktion och Övergripande Funktion
+
+Andningssystemet och cirkulationssystemet samverkar intimt för att upprätthålla cellernas metabolism genom gasutbyte. Denna infrastruktur är avgörande för överlevnad, då kroppens vävnader riskerar skador eller nekros om gasutbytet fallerar.
+
+### 1.1 Syftet med gasutbytet
+
+Huvuduppgiften är att transportera syrgas ($O_2$) från atmosfären till cellerna och koldioxid ($CO_2$) från cellerna till atmosfären1111.
+
+- **Syrgas:** Krävs för cellernas energiproduktion (cellandningen).
+    
+- **Koldioxid:** En restprodukt från metabolismen som måste vädras ut för att undvika acidos (försurning).
+    
+
+### 1.2 Översikt av transportkedjan
+
+Processen kan delas in i fyra distinkta steg där systemen samarbetar22222222222:
+
+1. **Ventilation:** Luft transporteras mellan atmosfären och lungblåsorna (alveolerna) via luftvägarna.
+    
+2. **Externt gasutbyte:** Diffusion av $O_2$ från alveol till lungkapillär och $CO_2$ från lungkapillär till alveol.
+    
+3. **Gastransport i blodet:** Cirkulationssystemet fraktar gaserna mellan lungorna och kroppens vävnader (systemkretsloppet).
+    
+4. **Internt gasutbyte:** Diffusion av $O_2$ från vävnadskapillär till cell och $CO_2$ från cell till vävnadskapillär.
+    
+
+**Flödesschema: Gasutbytets kedja**
+
+Code snippet
+
+```
+graph LR
+    A[Atmosfär] -->|Ventilation| B[Alveoler]
+    B -->|Diffusion| C[Lungkapillärer]
+    C -->|Cirkulation| D[Vävnadskapillärer]
+    D -->|Diffusion| E[Celler]
+    E -.->|CO2 Produktion| D
+    D -.->|Cirkulation| C
+    C -.->|Diffusion| B
+    B -.->|Ventilation| A
+```
+
+3333333333333333
+
+---
+
+## 2. Kemiska Förutsättningar för Gasutbyte
+
+Förståelsen för gasutbytet kräver insikt i gasernas kemiska egenskaper, särskilt deras löslighet och interaktion med biologiska membran.
+
+- **Hydrofoba egenskaper:** Både $O_2$ och $CO_2$ är hydrofoba (vattenavstötande).
+    
+    - _$O_2$:_ Består av opolära kovalenta bindningar4.
+        
+    - _$CO_2$:_ Har polära bindningar, men molekylens linjära struktur gör att dipolmomenten tar ut varandra, vilket ger en övergripande opolär karaktär5.
+        
+- **Konsekvenser för fysiologin:**
+    
+    1. **Möjlighet:** Båda gaserna kan fritt och snabbt diffundera genom cellernas fosfolipidmembran (t.ex. över alveol- och kapillärväggar)6.
+        
+    2. **Begränsning:** De löser sig mycket dåligt i blodplasman (som är vattenbaserad). Detta nödvändiggör specialiserade transportsystem (som hemoglobin) för att frakta tillräckliga mängder gas i blodet777.
+        
+
+---
+
+## 3. Andningssystemets Anatomi
+
+Anatomin är uppdelad i övre och nedre luftvägar samt själva lungvävnaden där gasutbytet sker.
+
+### 3.1 Övre luftvägarna
+
+Dessa strukturer ansvarar för att rena, fukta och värma inkommande luft innan den når de känsliga lungorna8.
+
+- **Näshålan (_Cavum nasi_):** Beklädd med slemhinna och näshår som fångar partiklar. Har riklig blodförsörjning (näsmusslor) för att värma luften9999.
+    
+- **Bihålor (_Sinus_):** Luftfyllda hålrum i kraniet (t.ex. _Sinus frontalis_, _Sinus maxillaris_) som mynnar i näshålan101010101010101010.
+    
+- **Svalget (_Pharynx_):** Gemensam passage för luft och föda. Leder ner mot struphuvudet11111111.
+    
+
+### 3.2 Nedre luftvägarna
+
+Här börjar transporten ner mot lungorna.
+
+- **Struphuvudet (_Larynx_):** Innehåller stämbanden (_plicae vocales_) och skyddas av struplocket (_epiglottis_) som stänger luftvägen vid sväljning för att förhindra aspiration12121212.
+    
+    - _Anatomi:_ Uppbyggt av brosk, inklusive sköldbrosk ("Adamsäpplet") och ringbrosk13131313.
+        
+- **Luftstrupen (_Trachea_):** Ett rör förstärkt med broskringar som förhindrar kollaps vid undertryck. Delar sig i två huvudbronker14141414.
+    
+- **Bronkialträdet:**
+    
+    - _Huvudbronker:_ En till varje lunga (höger och vänster)15151515.
+        
+    - _Bronker:_ Förgreningar inuti lungan som innehåller brosk16161616.
+        
+    - _Bronkioler:_ Mindre förgreningar utan brosk, men med glatt muskulatur som kan reglera luftflödet17171717.
+        
+    - _Respiratoriska bronkioler:_ De allra minsta grenarna som mynnar i alveoler18.
+        
+
+### 3.3 Det Respiratoriska Epitelet
+
+Luftvägarna (ner till bronkiolerna) är beklädda med ett specialiserat epitel som fungerar som en skyddsbarriär19.
+
+- **Bägarceller:** Producerar slem (ca 1 liter/dygn) som fångar upp damm, bakterier och partiklar20202020.
+    
+- **Cilierade celler:** Har flimmerhår (cilier) som slår synkroniserat (flera mm/sekund) för att transportera slemmet upp mot svalget. Där sväljs det ner och patogener oskadliggörs av magsyran21212121.
+    
+    - _Patologi:_ Rökning och avgaser kan förlama eller döda cilierna. De ersätts då ofta av fler bägarceller, vilket leder till ökad slemproduktion men sämre rensning (rökhosta)22.
+        
+
+---
+
+## 4. Alveolerna och Gasutbytet
+
+Alveolerna (lungblåsorna) är platsen för det faktiska gasutbytet. En vuxen människa har ca 200 miljoner alveoler per lunga, vilket ger en enorm yta för diffusion23.
+
+### 4.1 Alveolens struktur
+
+Alveolväggen är extremt tunn (<100 µm total barriär till blodet) för att maximera diffusionshastigheten24.
+
+- **Typ 1-celler:** Extremt tunna epitelceller som utgör majoriteten av väggen och möjliggör gasutbytet25.
+    
+- **Typ 2-celler:** Producerar _surfaktant_26.
+    
+- **Alveolmakrofager:** Immunceller som "patrullerar" alveolen och fagocyterar ("äter upp") främmande partiklar som tagit sig förbi slembarriären27.
+    
+
+### 4.2 Ytspänning och Surfaktant
+
+Alveolens insida är täckt av en tunn vätskehinna. Vattenmolekylerna i denna hinna vill bilda vätebindningar med varandra, vilket skapar en ytspänning som strävar efter att dra ihop alveolen (kollaps)28.
+
+- **Problem:** Utan motverkande kraft skulle alveolerna kollapsa vid utandning, vilket skulle göra det omöjligt att andas in igen.
+    
+- **Lösning (Surfaktant):** Ett amfifatiskt ämne (har både hydrofil och hydrofob del) som produceras av Typ 2-celler. Surfaktanten lägger sig som en hinna mellan vattnet och luften, vilket bryter vattnets ytspänning och förhindrar alveolär kollaps29.
+    
+
+---
+
+## 5. Lungmekanik och Ventilation
+
+Ventilationen drivs av tryckskillnader mellan atmosfären ($P_{atm}$) och alveolerna ($P_{alv}$). Luft flödar alltid från högre till lägre tryck30.
+
+### 5.1 Boyles lag och tryckförändringar
+
+Principen bygger på att om volymen på en behållare (lungorna) ökar, så minskar trycket inuti den (och vice versa).
+
+- **Inandning (Inspiration):**
+    
+    1. Bröstkorgens volym ökar (aktiv muskelprocess).
+        
+    2. Lungornas volym ökar (eftersom de är fästa vid bröstkorgen).
+        
+    3. $P_{alv}$ sjunker och blir lägre än $P_{atm}$ ($P_{atm} > P_{alv}$).
+        
+    4. Luft sugs in i lungorna för att utjämna tryckskillnaden31313131.
+        
+- **Utandning (Exspiration):**
+    
+    1. Bröstkorgens volym minskar (passiv process vid vila).
+        
+    2. Lungornas volym minskar.
+        
+    3. $P_{alv}$ stiger och blir högre än $P_{atm}$ ($P_{atm} < P_{alv}$).
+        
+    4. Luft pressas ut ur lungorna32.
+        
+
+### 5.2 Andningsmuskulatur
+
+- **Diafragman (Mellangärdet):** Den viktigaste inandningsmuskeln (står för ca 70% av ventilationen i vila). Vid kontraktion rör den sig nedåt och plattas ut, vilket ökar bröstkorgens vertikala volym och trycker bukinnehållet nedåt33333333.
+    
+- **Yttre interkostalmuskler:** Sitter mellan revbenen. Vid kontraktion lyfter de revbenen uppåt/utåt, vilket ökar bröstkorgens bredd och djup34343434.
+    
+- **Utandningsmuskler (vid ansträngning):** Vid forcerad utandning (träning, hosta) används _inre interkostalmuskler_ och _bukväggsmuskulatur_ för att aktivt minska bröstkorgens volym snabbare35353535.
+    
+
+### 5.3 Lungsäcken (Pleura)
+
+Lungsäcken kopplar lungan mekaniskt till bröstkorgen. Den består av två blad:
+
+1. **Viscerala bladet:** Fäster mot lungvävnaden36.
+    
+2. **Parietala bladet:** Fäster mot bröstkorgens insida och diafragman37.
+    
+
+- **Pleurahålan:** En smal spalt mellan bladen innehållande pleuravätska. Vätskan skapar en friktionsfri glidyta och, viktigast av allt, ett undertryck ("sug") som gör att lungan tvingas följa med när bröstkorgen expanderar. Utan detta skulle lungan kollapsa (pneumothorax)38383838.
+    
+
+### 5.4 Döda rummet
+
+"Döda rummet" är de delar av luftvägarna där inget gasutbyte sker (näsa, svalg, trachea, bronker)39.
+
+- Volymen är ca 150 ml.
+    
+- Vid ett normalt andetag på 500 ml når endast 350 ml alveolerna. Resten stannar i döda rummet.
+    
+- Detta innebär att luften i alveolerna är en blandning av ny luft och "gammal" luft, vilket sänker syrgashalten jämfört med atmosfären404040404040404040.
+    
+
+---
+
+## 6. Transport av Blodgaser
+
+Blodet transporterar syre och koldioxid mellan lungor och vävnader. Systemet utnyttjar både fysikalisk lösning och kemisk bindning.
+
+### 6.1 Transport av Syrgas ($O_2$)
+
+Syrgas transporteras på två sätt:
+
+1. **Fysikaliskt löst:** Endast ca 1,5% p.g.a. låg löslighet i plasma41.
+    
+2. **Bundet till hemoglobin:** Ca 98,5% av syret transporteras bundet till järnatomer i de röda blodkropparnas hemoglobin42.
+    
+
+**Hemoglobinets funktion:**
+
+- Varje hemoglobinmolekyl har 4 hemgrupper med järn ($Fe^{2+}$) som kan binda varsin $O_2$-molekyl43434343.
+    
+- **Syremättnad:** Bindningen är kooperativ – när en molekyl binder blir det lättare för nästa att binda. Detta ger en S-formad bindningskurva (se 6.3).
+    
+- En erytrocyt innehåller >250 miljoner hemoglobinmolekyler och kan frakta över en miljard $O_2$-molekyler44.
+    
+
+### 6.2 Transport av Koldioxid ($CO_2$)
+
+Koldioxid transporteras på tre sätt45454545:
+
+1. **Fysikaliskt löst:** Ca 10% löst i plasman.
+    
+2. **Bundet till hemoglobin:** Ca 20% binder till proteinkedjorna (inte järnet) på hemoglobinet ($HbCO_2$).
+    
+3. **Som vätekarbonat ($HCO_3^-$):** Ca 70% (Majoriteten).
+    
+
+Bikarbonatbufferten (Viktig reaktion!):
+
+Inne i erytrocyten omvandlas $CO_2$ enligt formeln:
+
+$$CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons HCO_3^- + H^+$$
+
+- Steget $CO_2 + H_2O$ till kolsyra ($H_2CO_3$) katalyseras snabbt av enzymet **karbanhydras**46.
+    
+- Vätekarbonatjonen ($HCO_3^-$) transporteras ut i plasman och fungerar som en pH-buffert, medan $H^+$ binds till hemoglobin (buffras) för att inte sänka pH för mycket inuti cellen.
+    
+- I lungan går reaktionen åt motsatt håll: $HCO_3^-$ går in i erytrocyten, blir till $CO_2$, som diffunderar ut i alveolen47.
+    
+
+### 6.3 Syre-Hemoglobin Dissociationskurvan & Bohr-effekten
+
+Hemoglobinets förmåga att binda syre varierar beroende på miljön.
+
+- **I lungan (högt $pO_2$, normalt pH):** Hemoglobin binder syre hårt (mättnad nära 100%).
+    
+- **I vävnad (lägre $pO_2$):** Hemoglobin släpper syre.
+    
+- **Bohr-effekten (Vävnad i arbete):** I arbetande vävnad (t.ex. muskler) är pH lägre (mer $H^+$ och $CO_2$) och temperaturen högre. Detta _minskar_ hemoglobinets affinitet för syre. Resultatet är att hemoglobinet släpper ifrån sig _mer_ syre precis där det behövs som mest484848484848484848.
+    
+    - _Vila:_ Ca 1 $O_2$ molekyl avges per hemoglobin.
+        
+    - _Hårt arbete:_ Upp till 3 $O_2$ molekyler avges49494949.
+        
+
+---
+
+## 7. Reglering av Andningen
+
+Andningen regleras automatiskt för att hålla blodgaserna ($pO_2$, $pCO_2$) och pH stabila.
+
+### 7.1 Andningscentrum
+
+Beläget i hjärstammen (förlängda märgen och hjärnbryggan). Här genereras den rytmiska signalen som via nerver (t.ex. _Nervus phrenicus_ till diafragman) styr inandningsmusklerna505050505050505050.
+
+### 7.2 Kemoreceptorer
+
+Kroppen mäter blodets sammansättning via sensorer:
+
+1. **Centrala kemoreceptorer (i hjärnstammen):**
+    
+    - Känner primärt av **$pCO_2$** (indirekt via pH-förändringar i cerebrospinalvätskan).
+        
+    - Om $CO_2$ stiger (surt pH), signalerar de till andningscentrum att öka ventilationen för att vädra ut $CO_2$51515151.
+        
+    - Detta är den _starkaste_ drivkraften för andning under normala förhållanden.
+        
+2. **Perifera kemoreceptorer (i aortabågen och halspulsådern):**
+    
+    - Känner av $pO_2$, $pCO_2$ och pH.
+        
+    - Reagerar främst på kraftigt sjunkande syrenivåer eller snabba pH-fall52.
+        
+
+Regleringsloop (Negativ feedback):
+
+Ökad metabolism $\rightarrow$ Högt $pCO_2$/Lågt pH $\rightarrow$ Kemoreceptorer aktiveras $\rightarrow$ Andningscentrum ökar frekvens/djup $\rightarrow$ Utvädring av $CO_2$ $\rightarrow$ Normalisering av blodgaser53.
+
+---
+
+## 8. Patologi och Mätmetoder
+
+### 8.1 Spirometri (Lungfunktionsmätning)
+
+Används för att mäta lungvolymer54:
+
+- **Tidalvolym (TV):** Normalt andetag i vila (ca 0,5 liter)55.
+    
+- **Inspiratorisk reservvolym (IRV):** Maximal inandning efter en normal inandning (ca 3 liter)56.
+    
+- **Exspiratorisk reservvolym (ERV):** Maximal utandning efter en normal utandning (ca 1,5 liter)57.
+    
+- **Residualvolym (RV):** Luften kvar i lungan efter maximal utandning (ca 1 liter). Kan ej mätas direkt med enkel spirometri58.
+    
+- **Vitalkapacitet (VC):** Maximal volym som kan ventileras (TV + IRV + ERV = ca 5 liter)59.
+    
+
+### 8.2 KOL (Kronisk Obstruktiv Lungsjukdom)
+
+En sjukdom som drabbar ca 5-10% av befolkningen, främst rökare. Det är en kombination av två tillstånd60:
+
+1. **Kronisk bronkit:** Inflammation i bronkerna leder till förtjockade slemhinnor, ökad slemproduktion och kontraktion av glatt muskulatur. Detta ökar luftvägsmotståndet (svårt att få luft in/ut)61616161.
+    
+2. **Emfysem:** Nedbrytning av alveolväggarna. Detta leder till:
+    
+    - Minskad yta för gasutbyte (sämre syresättning).
+        
+    - Minskad elasticitet i lungvävnaden (svårt att andas ut, luften "fastnar")62626262.
+
+
