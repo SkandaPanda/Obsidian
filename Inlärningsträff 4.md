@@ -75,6 +75,16 @@ graph LR
 
 ```
 
+> [!NOTE] Svar 4
+> C) När nervimpulsen når sluetet av axonet, axonterminalen, omvandlas den elektriska signal till kemiska för att påverka nästa cell(skelettmuskelcell). Vid axon terminalen leder depolarisering av membranet till att Ca2+ kanalar öppnas, Ca2+ diffunderar in i terminalen. Ökande kalcium fungerar som en trigger för exocytos. Kalciumjoner aktiverar processer som får att vesiklar som är fyllda med neuro
+
+
+
+
+
+
+
+
 ---
 
 ### Fråga 5: Vid sjukdomen Multipel skleros (MS) kommer myelinskidorna i det centrala nervsystemet att skadas, troligtvis genom att kroppens eget immunförsvar attackerar aktuella strukturer. Vad händer med fortledningshastigheten av nervimpulser hos aktuella axoner då dessa förlorar myeliniseringen?
