@@ -55,11 +55,25 @@ _Använd 3-5 meningar per steg._ 13
 
 > [!NOTE] Svar 4
 > A) nervcellen tar emot stimulerande och hämmande signaler via sina dendriter och cellkropp. Dessa summeras vid axonhalsen, om summan av signaler leder till att membranpotentialen depolariseras tillräckligt mycket (-60 mV) startar en kjedereaktion, öppnas spänningsreglerande Na+ kanaler lerder till massivt inflöde av Na+ joner. Ändras membranpotentialen till +30mV(depolariseras), därefter öppnas K+ för att återfå negativa laddningen. Denna snabba spänningsförändring är nervimpulsen.
-> B) Aktionspotential transporterats längs axonet för att nå målet. Myeliniserade nervceller sker detta genom saltorisk fortledning. Myelinskidorna är isolering som förhindrar joner läckas ut; tvingar signaler att färda inuti axonet. mellan myelinskidorna finns osiolade mellarum som heter ranviers noder där spänningsreglerande jonkanaler är komcenterande.
+> B) Aktionspotential transporterats längs axonet för att nå målet. Myeliniserade nervceller sker detta genom saltorisk fortledning. Myelinskidorna är isolering som förhindrar joner läckas ut; tvingar signaler att färda inuti axonet. mellan myelinskidorna finns osiolade mellarum som heter ranviers noder där spänningsreglerande jonkanaler är komcenterande.'
 
+```mermaid
+graph LR
+    A["AP utlöses vid nod 1"] --> B["Na⁺ strömmar in"];
+    B --> C["Na⁺ diffunderar"];
+    C --> D["Når nod 2"];
+    D --> E["MP höjs till tröskel"];
+    E --> F["Ny AP vid nod 2"];
+    F --> G["Impulsen 'hoppar'"];
+    G --> H["**Resultat:** hög ledningshastighet (≈100 m/s)"];
 
+    subgraph Process
+        A --> B --> C --> D --> E --> F
+    end
 
+    style H fill:#f9f,stroke:#333,stroke-width:2px
 
+```
 
 ---
 
