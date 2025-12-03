@@ -34,6 +34,9 @@ Vad är skillnaden i funktion, mellan dessa tre typer av nervceller? 7
 Fråga 3: Varför kan en skada på höger hjärnhalva leda till en oförmåga att stimulera kontraktion av skelettmuskelceller i t.ex. vänster hand, men inte höger hand? 8
 
 > [!NOTE] Svar 3
+> nervbanor som styr våra viljestyrd rörelser korsär kroppens medellinje på vägen från hjänan till ner ryggmärgen. Höger hjärnhalva styr vänster kroppshalva och vice versa,
+> Mekanism; Pyramidbanekrosningen. (Decussation)
+> Signalär för viljestyrd motorisk start
 > 
 
 ---
