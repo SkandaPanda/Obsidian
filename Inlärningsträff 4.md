@@ -36,7 +36,8 @@ Fråga 3: Varför kan en skada på höger hjärnhalva leda till en oförmåga at
 > [!NOTE] Svar 3
 > nervbanor som styr våra viljestyrd rörelser korsär kroppens medellinje på vägen från hjänan till ner ryggmärgen. Höger hjärnhalva styr vänster kroppshalva och vice versa,
 > Mekanism; Pyramidbanekrosningen. (Decussation)
-> Signalär för viljestyrd motorisk start
+> Signalär för viljestyrd motorisk startar i den primära motorbarken i pannloben. axoner från dess övre motorneuron färdas ned genom hjärnstammen. I medulla oblongata korsar majoritieten av dessa motoriska nervtrådar över till den motsatta sidan. 
+
 > 
 
 ---
