@@ -36,9 +36,7 @@ Fråga 3: Varför kan en skada på höger hjärnhalva leda till en oförmåga at
 > [!NOTE] Svar 3
 > nervbanor som styr våra viljestyrd rörelser korsär kroppens medellinje på vägen från hjänan till ner ryggmärgen. Höger hjärnhalva styr vänster kroppshalva och vice versa,
 > Mekanism; Pyramidbanekrosningen. (Decussation)
-> Signalär för viljestyrd motorisk startar i den primära motorbarken i pannloben. axoner från dess övre motorneuron färdas ned genom hjärnstammen. I medulla oblongata korsar majoritieten av dessa motoriska nervtrådar över till den motsatta sidan. 
-
-> 
+> Signaler för viljestyrd motorisk startar i den primära motorbarken i pannloben. axoner från dess övre motorneuron färdas ned genom hjärnstammen. I medulla oblongata korsar majoriteten av dessa motoriska nervtrådar över till den motsatta sidan. 
 
 ---
 
@@ -46,16 +44,18 @@ Fråga 3: Varför kan en skada på höger hjärnhalva leda till en oförmåga at
 
 Redogör för de olika stegen i denna process utifrån följande punkter: 9
 
-- **A)** Hur skapas aktionspotentialen i axonhalsen? 10
+- **A)** Hur skapas aktionspotentialen i axonhalsen? 
     
-- **B)** Hur fortleds nervimpulsen längs det myeliniserade axonet till axonterminalen? 11
+- **B)** Hur fortleds nervimpulsen längs det myeliniserade axonet till axonterminalen? 
     
-- **C)** Vad sker i axonterminalen när aktionspotentialen når dit och hur leder detta till att neurotransmittorer utsöndras? 12
+- **C)** Vad sker i axonterminalen när aktionspotentialen når dit och hur leder detta till att neurotransmittorer utsöndras? 
     
 
 _Använd 3-5 meningar per steg._ 13
 
 > [!NOTE] Svar 4
+> A) nervcellen tar emot stimulerande och hämmande signaler. Dessa summeras vid axonhalsen. 
+
 
 ---
 
