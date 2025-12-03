@@ -1212,3 +1212,297 @@ En sjukdom som drabbar ca 5-10% av befolkningen, främst rökare. Det är en kom
     - Minskad elasticitet i lungvävnaden (svårt att andas ut, luften "fastnar")62626262.
 
 
+Här är extremt detaljerade föreläsningsanteckningar baserade på den bifogade presentationen om nervsystemet. Anteckningarna är strukturerade för att motsvara en universitetsnivå, med fokus på anatomiska detaljer, fysiologiska processer och interaktioner mellan systemen.
+
+---
+
+# Föreläsningsanteckningar: Nervsystemet – Anatomi, Fysiologi och Signalering
+
+## 1. Nervsystemets Indelning och Organisation
+
+Nervsystemet kan delas in på två huvudsakliga sätt: anatomiskt (baserat på strukturernas placering) och funktionellt (baserat på vad nerverna gör). Förståelsen för hur dessa överlappar är kritisk för att greppa hur kroppen styr allt från viljestyrda muskler till automatiska processer som hjärtrytm.
+
+### 1.1 Anatomisk Indelning
+
+Den anatomiska uppdelningen separerar systemet i en central och en perifer del.
+
+- **Centrala nervsystemet (CNS):**
+    
+    - Består av hjärnan och ryggmärgen. Detta är kommandocentralen där bearbetning, beslut och samordning sker.
+        
+    - **Hjärnan:** Innehåller över 120 miljarder nervceller. Den ansvarar för högre funktioner som intellekt, minne och tolkning av sinnesintryck1.
+        
+    - **Ryggmärgen (Medulla spinalis):** Innehåller över 10 miljoner nervceller. Den fungerar som en länk mellan hjärnan och resten av kroppen men kan också hantera reflexer självständigt2.
+        
+- **Perifera nervsystemet (PNS):**
+    
+    - Består av alla nerver som utgår från CNS och sträcker sig ut i kroppen. Det inkluderar 12 par kranialnerver (från hjärnan) och 31 par spinalnerver (från ryggmärgen)3333.
+        
+    - Totalt innehåller PNS över 1 miljon nervceller som sköter kommunikationen mellan CNS och omvärlden/kroppen4.
+        
+
+### 1.2 Funktionell Indelning
+
+Den funktionella indelningen beskriver hur information flödar och vad den styr.
+
+- **Sensoriska nervsystemet (Afferent):**
+    
+    - Skickar information _till_ CNS från kroppen. Detta sker via **sensoriska nervfibrer**5555.
+        
+    - Involverar sinnesceller som reagerar på stimuli (t.ex. tryck, ljus, kemikalier). I vissa fall är sinnescellen en direkt del av det sensoriska nervsystemet666666666.
+        
+- **Motoriska nervsystemet (Efferent):**
+    
+    - Skickar information _från_ CNS till målceller (muskler och körtlar) via **motoriska nervfibrer**7777.
+        
+    - Det motoriska systemet delas ytterligare in i två undergrupper beroende på vad som styrs:
+        
+        1. **Somatomotoriska nervsystemet:** Viljestyrt. Innerverar **skelettmuskelceller** för att skapa rörelse88888888888.
+            
+        2. **Autonoma nervsystemet:** Icke-viljestyrt. Innerverar **hjärtmuskelceller**, **glatt muskulatur** (t.ex. i tarmar och blodkärl) samt **körtelceller**9999999999999999.
+            
+
+---
+
+## 2. Nervvävnadens Histologi: Celler och Struktur
+
+Nervvävnad består av två huvudtyper av celler: nervceller (neuroner) som sköter signaleringen, och gliaceller som stödjer dem.
+
+### 2.1 Nervceller (Neuroner)
+
+Dessa celler ansvarar för att skapa och fortleda nervimpulser10. De kan kategoriseras både utseendemässigt och funktionellt.
+
+**Utseendemässig indelning (Baserat på antal utskott från cellkroppen):**
+
+- **Unipolära:** Har ett utskott. Vanligt hos sensoriska nervceller (t.ex. känselkroppar i huden)111111111111111111.
+    
+- **Bipolära:** Har två utskott. Hittas exempelvis i luktsinnet och ögat12121212.
+    
+- **Multipolära:** Har många utskott (en axon, många dendriter). Detta är den vanligaste typen för motoriska nervceller och interneuron13131313.
+    
+
+**Strukturella delar av en nervcell:**
+
+- **Cellkropp (Soma):** Innehåller cellkärnan och organeller1414.
+    
+- **Dendriter:** Korta utskott på cellkroppen som tar emot signaler från andra celler15.
+    
+- **Axon:** Ett långt utskott som leder signalen ut från cellkroppen mot nästa mål1616.
+    
+- **Axonhals:** Övergången mellan cellkropp och axon. Här initieras ofta aktionspotentialen (nervimpulsen)17171717.
+    
+- **Axonterminal (Nervändslut):** Slutet på axonet där signalöverföringen sker till nästa cell via synapser18181818.
+    
+
+**Funktionell indelning av neuroner:**
+
+- **Sensoriska nervceller:** Leder information från sinnesorgan (yttre och inre) till CNS19191919.
+    
+- **Interneuron:** Kopplingsstationer. Tar emot info från en nervcell och skickar vidare till en eller flera andra. Finns i enorma nätverk i CNS20202020.
+    
+- **Motoriska nervceller:** Leder information från CNS till målceller (muskler/körtlar)21212121.
+    
+
+### 2.2 Gliaceller (Stödjeceller)
+
+Gliaceller finns i mycket större antal än nervceller (ca 10 gånger fler) och har vitala stödjande funktioner22. De delas in beroende på var de finns (CNS eller PNS) och funktion.
+
+**I Centrala Nervsystemet (CNS):**
+
+1. **Oligodendrocyter:** Myeliniserande celler. De lindar sina utskott runt axoner i CNS för att isolera dem och öka signalhastigheten2323232323.
+    
+2. **Astrocyter:** Organiserar nervvävnaden, ger stadga och är en viktig del av **blod-hjärn-barriären** som skyddar hjärnan från skadliga ämnen i blodet24242424.
+    
+3. **Microglia:** Fungerar som nervsystemets immunförsvar och "städpatrull" genom att fagocytera skräp och patogener2525252525.
+    
+4. **Ependymceller:** Bekläder hålrummen i hjärnan (ventiklarna) och producerar cerebrospinalvätska262626262626262626.
+    
+
+**I Perifera Nervsystemet (PNS):**
+
+1. **Schwannceller:** Myeliniserande celler i PNS. En Schwanncell lindar sig runt en del av ett axon27.
+    
+2. **Satellitceller:** Skyddar och stödjer nervcellskroppar i ganglier (nervknutar) i PNS28282828.
+    
+
+---
+
+## 3. Centrala Nervsystemets Anatomi (CNS)
+
+### 3.1 Hjärnans delar och funktioner
+
+Hjärnan delas in i flera huvudregioner med specifika uppgifter.
+
+- **Storhjärnan (Cerebrum):** Utgör 90% av hjärnvolymen. Ansvarar för medvetna upplevelser, vilja, intellekt, språk och minne. Den är delad i två halvor (hemisfärer) som binds samman av hjärnbalken (_Corpus callosum_)29292929292929292929292929292929.
+    
+    - **Lober:** Pannlob, Hjässlob, Nacklob, Tinningslob. Varje lob har specialiserade områden, t.ex. synbark i nackloben och motorisk bark i pannloben 303030303030303030.
+        
+- **Mellanhjärnan (Diencephalon):**
+    
+    - **Talamus:** "Switchboard" eller omkopplingsstation för sensoriska signaler (utom lukt) som ska till storhjärnsbarken31313131.
+        
+    - **Hypotalamus:** Kontrollcentrum för det autonoma nervsystemet och det endokrina systemet (hormoner). Reglerar temp, hunger, törst via hypofysen32323232.
+        
+- **Hjärnstammen (Truncus encephalicus):** Förbinder ryggmärgen med hjärnan. Styr livsviktiga basala funktioner33333333.
+    
+    - **Mitthjärnan (Mesencephalon):** Översta delen av hjärnstammen34.
+        
+    - **Bryggan (Pons):** Centra för styrning av andning och cirkulation35353535.
+        
+    - **Förlängda märgen (Medulla oblongata):** Reglerar andning och cirkulation (hjärtrytm/blodtryck)36363636.
+        
+- **Lillhjärnan (Cerebellum):** Innehåller upp mot 100 miljarder nervceller. Ansvarar för balans, koordination av rörelser och "motoriskt minne" (t.ex. cykla). Den jämför _önskad_ rörelse med _faktisk_ rörelse och korrigerar fel37373737.
+    
+
+### 3.2 Ryggmärgen (Medulla spinalis)
+
+Ryggmärgen löper i kotkanalen och slutar vid ländkota L2. Därefter fortsätter nerverna som "hästsvansen" (_Cauda equina_)383838383838383838.
+
+- **Grå substans:** Ligger centralt (formad som ett fjäril/H). Innehåller nervcellskroppar.
+    
+    - **Framhorn:** Motoriska nervceller (utgående signaler)39.
+        
+    - **Bakhorn:** Sensoriska nervceller (inkommande signaler)40.
+        
+- **Vit substans:** Ligger perifert. Innehåller myeliniserade axoner som leder signaler upp och ner41.
+    
+
+### 3.3 Skyddande strukturer
+
+CNS skyddas av tre lager hinnor (meningier) och cerebrospinalvätska:
+
+1. **Hårda hinnan (Dura mater):** Ytterst och kraftigast42.
+    
+2. **Spindelvävshinnan (Araknoidea):** Mellersta lagret434343.
+    
+3. **Mjuka hinnan (Pia mater):** Innerst, följer hjärnans vävnad44.
+    
+
+- **Subaraknoidalrummet:** Utrymmet mellan spindelvävshinnan och mjuka hinnan. Här cirkulerar **cerebrospinalvätska (likvor)** som agerar stötdämpare och transportmedium för näring/slaggprodukter454545454545454545.
+    
+
+---
+
+## 4. Signalering: Aktionspotential och Synapser
+
+Nervsignalering bygger på elektrokemi: elektriska impulser längs axonet och kemiska signaler mellan celler.
+
+### 4.1 Aktionspotentialen (Den elektriska signalen)
+
+En nervimpuls är en snabb förändring av spänningen över cellmembranet, driven av joner (Na⁺ och K⁺).
+
+1. **Vilopotential:** Cellen har en negativ insida (-70 mV) jämfört med utsidan. Na⁺/K⁺-pumpar upprätthåller detta genom att pumpa ut Na⁺ och in K⁺, vilket skapar koncentrationsskillnader (högt Na⁺ ute, högt K⁺ inne)46464646.
+    
+2. **Depolarisering:**
+    
+    - Om nervcellen stimuleras öppnas Na⁺-kanaler. Na⁺ strömmar in (diffusion).
+        
+    - Om inströmningen är tillräcklig och membranpotentialen når **tröskelvärdet** (ca -60 mV), öppnas _spänningsreglerade_ Na⁺-kanaler i axonhalsen47474747.
+        
+    - Massivt inflöde av Na⁺ gör insidan positiv (upp till +30 mV). Detta är själva aktionspotentialen48.
+        
+3. **Repolarisering:**
+    
+    - Vid +30 mV stängs Na⁺-kanalerna och _spänningsreglerade_ K⁺-kanaler öppnas49494949.
+        
+    - K⁺ strömmar _ut_ ur cellen för att återställa den negativa laddningen på insidan50.
+        
+4. **Fortledning:**
+    
+    - Na⁺ som kommit in diffunderar längs axonet och triggar nya aktionspotentialer längre fram51515151.
+        
+    - I **myeliniserade axon** sker detta hoppvis vid **Ranvierska noder** (insnörningar i myelinet). Detta kallas saltatorisk fortledning och är mycket snabb (upp till 100 m/s) jämfört med omyeliniserade axon (ca 2 m/s)525252525252525252.
+        
+
+### 4.2 Synaptisk överföring (Den kemiska signalen)
+
+När den elektriska signalen når slutet av axonet (axonterminalen), måste den översättas till kemi för att nå nästa cell.
+
+1. **Ankomst:** Aktionspotentialen når axonterminalen och depolariserar membranet där53.
+    
+2. **Ca²⁺-inflöde:** Spänningsreglerade Kalciumkanaler öppnas. Eftersom koncentrationen av Ca²⁺ är mycket högre utanför cellen, strömmar Ca²⁺ in54.
+    
+3. **Exocytos:** Ca²⁺ får vesiklar (blåsor) innehållande **neurotransmittorer** (t.ex. Acetylkolin) att smälta samman med cellmembranet och tömma sitt innehåll i synapsspalten55.
+    
+4. **Bindning:** Neurotransmittorn diffunderar över klyftan och binder till receptorer på mottagarcellen (målcellen)56565656.
+    
+5. **Effekt:** Receptorn öppnar jonkanaler.
+    
+    - **Stimulerande synaps:** Öppnar Na⁺-kanaler → Depolarisering → Ökad chans för ny aktionspotential/muskelkontraktion57575757.
+        
+    - **Hämmande synaps:** Öppnar Cl⁻ eller K⁺-kanaler → Hyperpolarisering (mer negativt) → Minskad chans för aktionspotential58585858.
+        
+6. **Avslut:** Neurotransmittorn bryts snabbt ner (t.ex. av enzymet Acetylkolinesteras) eller återupptas av nervcellen för att signalen inte ska fastna i "på"-läge 59.
+    
+
+---
+
+## 5. Exempel på Signalvägar (Flowcharts)
+
+För att förstå systemet i praktiken, följer här detaljerade flödesscheman för två viktiga processer.
+
+### 5.1 Viljestyrd Muskelrörelse (Somatomotorisk signalering)
+
+Detta beskriver vägen från tanke till handling.
+
+1. **Beslut:** Hjärnan (Frontalloben/Motorisk bark) beslutar att röra en arm.
+    
+2. **Övre motorneuron:** Signal skickas via interneuron ner genom hjärnstammen till ryggmärgen.
+    
+3. **Synaps i Ryggmärg:** Interneuronet kopplar till en somatomotorisk nervcell i framhornet.
+    
+4. **Nedre motorneuron:** Den motoriska nervcellens axon leder signalen ut i PNS (t.ex. via Plexus brachialis) till armen.
+    
+5. **Neuromuskulär synaps:** Nervänden släpper ut **Acetylkolin** på muskelcellen.
+    
+6. **Kontraktion:** Acetylkolin binder receptorer → Na⁺ flödar in i muskeln → Muskelns inre Ca²⁺ frigörs → Muskelkontraktion (armen rör sig)606060606060606060.
+    
+
+### 5.2 Reflexbågen (Böjreflexen - Icke viljestyrd)
+
+En skyddsfunktion som sker innan vi hinner uppfatta smärta.
+
+1. **Stimuli:** Du lägger handen på en varm platta (smärtreceptor aktiveras).
+    
+2. **Sensorisk signal:** En sensorisk nervcell skickar signal in till ryggmärgens bakhorn.
+    
+3. **Omkoppling:** I ryggmärgen kopplas signalen _direkt_ till ett interneuron, och sedan vidare till ett motorneuron (utan att passera hjärnan först).
+    
+4. **Motorisk signal:** Motorneuronet skickar omedelbart signal till biceps.
+    
+5. **Respons:** Muskeln drar ihop sig och handen rycks bort.
+    
+6. **Medvetenhet:** _Samtidigt_ skickas en signal upp till hjärnan, så du känner smärtan strax efter att handen redan flyttats61.
+    
+
+---
+
+## 6. Autonoma Nervsystemet: Sympatikus vs. Parasympatikus
+
+Det autonoma systemet styr inre organ och arbetar ofta antagonistiskt (motverkande) för att balansera kroppen (homeostas).
+
+|**Funktion/Organ**|**Sympatiska Nervsystemet ("Fight or Flight")**|**Parasympatiska Nervsystemet ("Rest and Digest")**|
+|---|---|---|
+|**Generellt syfte**|Mobiliserar energi för kris/aktivitet62.|Sparar energi, bygger upp reserver, matsmältning63.|
+|**Neurotransmittor (Målcell)**|Noradrenalin (oftast), samt Adrenalin från binjuren64646464.|Acetylkolin65.|
+|**Hjärtat**|Ökar hjärtfrekvensen och slagkraften66666666.|Sänker hjärtfrekvensen67676767.|
+|**Luftvägar**|Vidgar luftrören (ökar luftflöde)68.|Drar ihop luftrören (minskar luftflöde)69.|
+|**Pupiller**|Vidgas (släpper in mer ljus för att se faror)70.|Dras ihop71.|
+|**Matsmältning**|Minskar aktivitet i tarmar och salivutsöndring72727272.|Ökar salivutsöndring och tarmaktivitet73737373.|
+|**Urinblåsa**|Slutarmuskeln dras ihop (håller tätt)74.|Blåsan kontraherar (tömning)75.|
+|**Binjure**|Stimulerar utsöndring av Adrenalin till blodet76.|Ingen direkt effekt.|
+
+**Viktig skillnad i anatomi:**
+
+- **Sympatiska ganglier:** Ligger nära ryggraden (i den s.k. sympatiska gränssträngen). Korta preganglionära fibrer, långa postganglionära77.
+    
+- **Parasympatiska ganglier:** Ligger nära eller i målcellen. Långa preganglionära fibrer (t.ex. Vagusnerven), korta postganglionära78787878.
+    
+
+### Summering av Neurotransmittorer
+
+- **Acetylkolin:** Används i _alla_ signaleringar ut från CNS (både sympatiska och parasympatiska preganglionära celler), i _hela_ parasympatiska systemet mot målcellen, samt i _alla_ skelettmuskelkopplingar (somatomotoriska)797979797979797979.
+    
+- **Noradrenalin:** Huvudsaklig signalsubstans i sympatiska systemet _mot målcellen_80.
+    
+- **CNS-transmittorer:** I hjärnan finns många andra som Dopamin, GABA och Serotonin som reglerar humör och hämning/stimulans81.
