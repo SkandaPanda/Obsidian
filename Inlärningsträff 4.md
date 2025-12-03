@@ -24,13 +24,17 @@ Vad är skillnaden i funktion, mellan dessa tre typer av nervceller? 7
 
 > [!NOTE] Svar 2
 > 1. Sensoriska (afferenta). Deras funktion är att detektera förändringar i den inre eller yttre miljö via receptor. Här oftast unipölära eller bipölara för struktur. Signal- skickar aktionspotentialer mot det CNS
-> 2. Interneuron. Funktion- integration och bearbetning. Analyserär sensorisk information och bestämmer lämplig motorisk respons. De bildär komplexa nätverk för minne och kognition. Sturk
+> 2. Interneuron. Funktion- integration och bearbetning. Analyserär sensorisk information och bestämmer lämplig motorisk respons. De bildär komplexa nätverk för minne och kognition. Struktur- oftast multipolära. Ligger iniuti CNS, 99% av alla nervceller är interneuron.
+> 3. Motorisk(Efferenta)- Funktion- Exekvering. De bär kommando signaler från CNS till effektorer (målcellen). Finns 2 typer; [[Somatomotoriska]] och [[Autonoma]]. Signal- Skickär aktionspotential från [[CNS]] ut i kroppen
+
+
 
 ---
 
 Fråga 3: Varför kan en skada på höger hjärnhalva leda till en oförmåga att stimulera kontraktion av skelettmuskelceller i t.ex. vänster hand, men inte höger hand? 8
 
 > [!NOTE] Svar 3
+> 
 
 ---
 
