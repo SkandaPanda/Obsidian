@@ -59,28 +59,33 @@ _Använd 3-5 meningar per steg._ 13
 
 ```mermaid
 graph LR
-    A["AP utlöses vid nod 1"] --> B["Na⁺ strömmar in"];
-    B --> C["Na⁺ diffunderar"];
-    C --> D["Når nod 2"];
-    D --> E["MP höjs till tröskel"];
-    E --> F["Ny AP vid nod 2"];
-    F --> G["Impulsen 'hoppar'"];
-    G --> H["**Resultat:** hög ledningshastighet (≈100 m/s)"];
+    A["Initiering i axonhalsen"] --> B["Depolarisering: Na⁺ strömmar in"];
+    B --> C["Repolarisering: K⁺ strömmar ut"];
+    C --> D["AP färdas längs axonet (saltatorisk fortledning)"];
+    D --> E["Na⁺ diffunderar till nästa Ranviers nod"];
+    E --> F["Ny AP utlöses vid nästa nod"];
+    F --> G["Impulsen hoppar → hög ledningshastighet"];
+    G --> H["AP når axonterminalen"];
+    H --> I["Ca²⁺ strömmar in i terminalen"];
+    I --> J["Vesiklar frisätter acetylkolin i synapsspalten"];
+    J --> K["Acetylkolin binder till muskelreceptorer"];
+    K --> L["Muskelkontraktion initieras"];
+    L --> M["Acetylkolin bryts ned av acetylkolinesteras"];
 
-    subgraph Process
-        A --> B --> C --> D --> E --> F
+    subgraph AxonProcess
+        A --> B --> C --> D --> E --> F --> G
     end
 
-    style H fill:#f9f,stroke:#333,stroke-width:2px
+    subgraph Synapse
+        H --> I --> J --> K --> L --> M
+    end
+
+    style G fill:#f9f,stroke:#333,stroke-width:2px
+    style M fill:#bbf,stroke:#333,stroke-width:2px
 
 ```
 
-> [!NOTE] Svar 4
-> C) När nervimpulsen når sluetet av axonet, axonterminalen, omvandlas den elektriska signal till kemiska för att påverka nästa cell(skelettmuskelcell). Vid axon terminalen leder depolarisering av membranet till att Ca2+ kanalar öppnas, Ca2+ diffunderar in i terminalen. Ökande kalcium fungerar som en trigger för exocytos. Kalciumjoner aktiverar processer som får att vesiklar som är fyllda med neuro
-
-
-
-
+> [!NOTE] Svar
 
 
 
