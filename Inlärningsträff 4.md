@@ -56,6 +56,7 @@ _Använd 3-5 meningar per steg._ 13
 > [!NOTE] Svar 4
 > A) nervcellen tar emot stimulerande och hämmande signaler via sina dendriter och cellkropp. Dessa summeras vid axonhalsen, om summan av signaler leder till att membranpotentialen depolariseras tillräckligt mycket (-60 mV) startar en kjedereaktion, öppnas spänningsreglerande Na+ kanaler lerder till massivt inflöde av Na+ joner. Ändras membranpotentialen till +30mV(depolariseras), därefter öppnas K+ för att återfå negativa laddningen. Denna snabba spänningsförändring är nervimpulsen.
 > B) Aktionspotential transporterats längs axonet för att nå målet. Myeliniserade nervceller sker detta genom saltorisk fortledning. Myelinskidorna är isolering som förhindrar joner läckas ut; tvingar signaler att färda inuti axonet. mellan myelinskidorna finns osiolade mellarum som heter ranviers noder där spänningsreglerande jonkanaler är komcenterande.'
+>  C) När nervimpulsen når slutet av axoner, axonterminalen, omvandlas den elektriska signal till kemiska för att påverka nästa cell(skelett muskelcell). Vid axon terminalen leder depolarisering av membranet till att Ca2+ kanaler öppnas, Ca2+ diffunderar in i terminalen. Ökande kalcium fungerar som en trigger för exocytos. Kalcium joner aktiverar processer som får att vesiklar som är fyllda med Neurotransmittorn acetylkolin, att smälta? samman med axonterminalen membran. Acetylkolin frisättas då ut i synapsspalten (mellanrum mellan nervcellen och muskelcellen(Motorändplattan eller neuromuskulära synaps)). Neurotransmittorn diffunderar över spalten och binder rill receptor på muskelcellen vilket leder muskelkontraktion. Signalen ska vara kortvarig och kontrollerad bryts acetylkolin ned av enzymet acetylkolinesteras som finns i synapsspalten.
 
 ```mermaid
 graph LR
@@ -85,7 +86,7 @@ graph LR
 
 ```
 
-> [!NOTE] Svar
+
 
 
 
