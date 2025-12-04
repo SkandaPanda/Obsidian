@@ -271,12 +271,14 @@ $$
 Från vilken typ av blodkärl bör man tappa blod för att få en så god bild som möjligt av andningsfunktionen? 
 
 > [!NOTE] Svar 17
+> Från en ärtar pga det har precis lämnat lungorna och visar hur bra gasutbtye i lungorna har fungerat.
 
 ---
 
 Fråga 18: Beskriv hur koldioxid transporterats från cellerna i kroppens olika vävnader till lungornas alveoler. 
 
 > [!NOTE] Svar 18
+> 
 
 ---
 
