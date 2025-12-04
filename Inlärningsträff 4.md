@@ -54,9 +54,10 @@ Redogör för de olika stegen i denna process utifrån följande punkter: 9
 _Använd 3-5 meningar per steg._ 13
 
 > [!NOTE] Svar 4
-> A) nervcellen tar emot stimulerande och hämmande signaler via sina dendriter och cellkropp. Dessa summeras vid axonhalsen, om summan av signaler leder till att membranpotentialen depolariseras tillräckligt mycket (-60 mV) startar en kjedereaktion, öppnas spänningsreglerande Na+ kanaler lerder till massivt inflöde av Na+ joner. Ändras membranpotentialen till +30mV(depolariseras), därefter öppnas K+ för att återfå negativa laddningen. Denna snabba spänningsförändring är nervimpulsen.
-> B) Aktionspotential transporterats längs axonet för att nå målet. Myeliniserade nervceller sker detta genom saltorisk fortledning. Myelinskidorna är isolering som förhindrar joner läckas ut; tvingar signaler att färda inuti axonet. mellan myelinskidorna finns osiolade mellarum som heter ranviers noder där spänningsreglerande jonkanaler är komcenterande.'
+> A) nervcellen tar emot stimulerande och hämmande signaler via sina dendriter och cellkropp. Dessa summeras vid axonhalsen, om summan av signaler leder till att membranpotentialen depolariseras tillräckligt mycket (-60 mV) startar en kjedereaktion, öppnas spänningsreglerande Na+ kanaler lerder till massivt inflöde av Na+ joner. Ändras membranpotentialen till +30mV(depolariseras), därefter öppnas K+ för att återfå negativa laddningen. Denna snabba spänningsförändring är nervimpulsen. 
+> B) Aktionspotential transporterats längs axonet för att nå målet. Myeliniserade nervceller sker detta genom saltorisk fortledning. Myelinskidorna är isolering som förhindrar joner läckas ut; tvingar signaler att färda inuti axonet. mellan myelinskidorna finns osiolade mellarum som heter ranviers noder där spänningsreglerande jonkanaler är komcenterande.
 >  C) När nervimpulsen når slutet av axoner, axonterminalen, omvandlas den elektriska signal till kemiska för att påverka nästa cell(skelett muskelcell). Vid axon terminalen leder depolarisering av membranet till att Ca2+ kanaler öppnas, Ca2+ diffunderar in i terminalen. Ökande kalcium fungerar som en trigger för exocytos. Kalcium joner aktiverar processer som får att vesiklar som är fyllda med Neurotransmittorn acetylkolin, att smälta? samman med axonterminalen membran. Acetylkolin frisättas då ut i synapsspalten (mellanrum mellan nervcellen och muskelcellen(Motorändplattan eller neuromuskulära synaps)). Neurotransmittorn diffunderar över spalten och binder rill receptor på muskelcellen vilket leder muskelkontraktion. Signalen ska vara kortvarig och kontrollerad bryts acetylkolin ned av enzymet acetylkolinesteras som finns i synapsspalten.
+
 
 ```mermaid
 graph LR
@@ -217,13 +218,7 @@ Inkludera information om vad det är som är med och skapar aktuella drivkrafter
 >	Elastiskt återfjädring: Lungorna innehåller elastin och [[Alveoler]] har ytspänning så de drar naturligt ihop sig som en ballong. Leder till lungvolym minskning
 >	**Resultat:** $P_{alv} > P_{atm}$
 >	Luftstömmar ut.
->
-   
-
-
-
-
-
+>[[Drivkraften av in och utadning.]]
 
 
 ---
@@ -231,18 +226,22 @@ Inkludera information om vad det är som är med och skapar aktuella drivkrafter
 Fråga 16: Beskriv hur transporten av syre $(O_{2})$ från lungornas alveoler (lungblåsor) till cellerna i kroppens olika vävnader sker. 27
 
 > [!NOTE] Svar 16
+> 
+
+
+
 
 ---
 
 ### Fråga 17: För att undersöka en persons andningsfunktion kan partialtrycket av syrgas respektive koldioxid mätas i blodet. Ett allt för lågt syrgastryck och ett allt för högt koldioxidtryck är en indikation på en nedsatt andningsfunktion.
 
-Från vilken typ av blodkärl bör man tappa blod för att få en så god bild som möjligt av andningsfunktionen? 28
+Från vilken typ av blodkärl bör man tappa blod för att få en så god bild som möjligt av andningsfunktionen? 
 
 > [!NOTE] Svar 17
 
 ---
 
-Fråga 18: Beskriv hur koldioxid transporterats från cellerna i kroppens olika vävnader till lungornas alveoler. 29
+Fråga 18: Beskriv hur koldioxid transporterats från cellerna i kroppens olika vävnader till lungornas alveoler. 
 
 > [!NOTE] Svar 18
 
@@ -250,7 +249,7 @@ Fråga 18: Beskriv hur koldioxid transporterats från cellerna i kroppens olika 
 
 ### Fråga 19: Då en person hyperventilerar ("andas för mycket") kan större mängder koldioxid $(CO_{2})$ än önskvärt andas ut.
 
-Hur kommer detta potentiellt påverka pH-värdet i blodet? 30
+Hur kommer detta potentiellt påverka pH-värdet i blodet? 
 
 > [!NOTE] Svar 19
 
