@@ -185,12 +185,16 @@ Observera att svars utrymmet är mer omfattande denna gång, jämfört med när 
 > 	1.Bildandet av Acetyl-CoA: De två pyruvatmolekylerna från glykolysen omvandlas först till Acetyl-CoA. I detta steg frigörs elektroner ($e^-$).
 > 	2. Bildandet av Acetyl-CoA:
 > 	3. Reaktioner i cykeln: Acetyl-CoA genomgår en fullständig oxidation i cykeln. Under varvets gång avges elektroner ($e^-$) vid flera tillfällen.
-> 	4. Producerar 2 ATP
+> 	4. Producerar **2 ATP**
 > 3. Oxidativ fosforylering :**34 ATP**. Processen är beroende av elektrontransportkedjan och ATP-syntas.
 > 	1. Elektrontransportkedjan
 > 		   1. Startmaterial: Elektroner ($e^-$) och vätejoner ($H^+$) som avgavs vid oxidationen av glukos har tagits upp av NAD+, som då bildat NADH
 > 		   2. Transport: NADH lämnar av elektronerna till elektrontransportkedjan, som består av proteiner i mitokondriens inre membran.
-> 		   3. Elektronernas vandring: Elektronerna överförs stegvis genom elektrontransportkedjan, som består av fyra huvudsakliga protein-komplex (Complex I–IV) och mobila bärarmolekyler som koenzym Q (ubiquinon) och cytokrom c. Elektronerna från NADH överförs först till Complex I, där energin används för att pumpa vätejoner ($H^+$) från matrix till mellanmembranutrymmet. Sedan transporteras elektronerna via koenzym Q till Complex III, vidare via cytokrom c till Complex IV. Den slutliga elektronmottagaren är syrgas ($O_2$), som kombineras med elektronerna och vätejoner för att bilda vatten ($H_2O$). Denna stegvisa elektronöverföring skapar samtidigt den proton-gradient som driver ATP-syntesen.
+> 		   3. Elektronernas vandring: Elektronerna överförs stegvis genom elektrontransportkedjan, som består av fyra huvudsakliga protein-komplex (Complex I–IV) och mobila bärarmolekyler som koenzym Q (ubiquinon) och cytokrom c. Elektronerna från NADH överförs först till Complex I, där energin används för att pumpa vätejoner ($H^+$) från matrix till mellanmembranutrymmet. Sedan transporteras elektronerna via koenzym Q till Complex III, vidare via cytokrom c till Complex IV. Den slutliga elektronmottagaren är syrgas ($O_2$), som kombineras med elektronerna och vätejoner för att bilda vatten$Syre + H^+ \rightarrow Vatten$ . Denna stegvisa elektronöverföring skapar samtidigt den proton-gradient som driver ATP-syntesen.
+> 	2. ATP-syntas (Oxidativ fosforylering)
+> 		   1.  Mekanism: Vätejonerna ($H^+$) strömmar tillbaka in genom membranet genom  enzymkomplexet ATP-syntas
+> 		   2. Turbinfunktion: ATP-syntas fungerar som en turbin. Flödet av vätejoner får enzymet att snurra med en hastighet av över 130 varv per sekund.
+> 		   3. Kemisk reaktion: Mekaniska energin används för att sammanföra ADP + P till ATP.
  
 
 
@@ -319,6 +323,7 @@ Fråga 18: Beskriv hur koldioxid transporterats från cellerna i kroppens olika 
 Hur kommer detta potentiellt påverka pH-värdet i blodet? 
 
 > [!NOTE] Svar 19
+> 
 
 ---
 
