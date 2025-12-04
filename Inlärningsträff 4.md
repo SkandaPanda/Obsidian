@@ -205,56 +205,23 @@ Ge en förklaring till detta fenomen. 25
 Inkludera information om vad det är som är med och skapar aktuella drivkrafter under viloförhållanden. 
 
 > [!NOTE] Svar 15
-> Luft flödar alltid från höft tryck till lågt tryck. Enligt Boyles lag säger att $P \propto 1/V$ vilket innebär... att när volymen ökar minskat trycket. 
+> Luft flödar alltid från höft tryck till lågt tryck. Enligt Boyles lag säger att $P \propto 1/V$ vilket innebär att när volymen ökar minskat trycket. 
 >Inandning- Inspiration (aktivt process)
 >	Muskelarbete-Diafragman kontraheras(rör sig nedåt) och yttre interkostalmuskler lyfter revben. 
 >	Volymökning- Brösthålans volym ökar, eftersom lungorna är fästa via lungsäcken (pleuran) ökar även lungornas volym.
->	Tryckfall Alveolärtrycket ($P_{alv}$) sjunker under atmosfärstrycket ($P_{atm}$).* **Resultat:** $P_{alv} < P_{atm}$
->	Luftflöde: Luft
-    
+>	Tryckfall Alveolärtrycket ($P_{alv}$) sjunker under atmosfärstrycket ($P_{atm}$).* 
+>	**Resultat:** $P_{alv} < P_{atm}$
+>	Luftflöde: Luft strömmar in i lungorna för att jämna ut tryckskillnaden.
+>Utandning (exspiration- Passiv process via vila)
+>	Avslappning av inandningsmusklerna. 
+>	Elastiskt återfjädring: Lungorna innehåller elastin och [[Alveoler]] har ytspänning så de drar naturligt ihop sig som en ballong. Leder till lungvolym minskning
+>	**Resultat:** $P_{alv} > P_{atm}$
+>	Luftstömmar ut.
+>
+   
 
 
-```mermaid
-graph TD
-    %% Nodes and Styles
-    Start((Start))
-    
-    subgraph IN[Inandning: Aktiv Process]
-        direction TB
-        M_In[Muskler kontraheras<br/>Diafragma ner, revben upp]
-        V_In[Volym ökar]
-        P_In[Tryck sjunker<br/>P_alv < P_atm]
-        Flow_In([Luft strömmar IN])
-    end
 
-    subgraph UT[Utandning: Passiv Process]
-        direction TB
-        M_Out[Muskler slappnar av<br/>Elastisk återfjädring]
-        V_Out[Volym minskar]
-        P_Out[Tryck ökar<br/>P_alv > P_atm]
-        Flow_Out([Luft strömmar UT])
-    end
-
-    %% Connections
-    Start --> M_In
-    M_In --> V_In
-    V_In -- Boyles Lag --> P_In
-    P_In --> Flow_In
-    
-    Flow_In --> M_Out
-    
-    M_Out --> V_Out
-    V_Out -- Boyles Lag --> P_Out
-    P_Out --> Flow_Out
-    
-    Flow_Out --> M_In
-
-    %% Styling for better visibility in Obsidian dark/light mode
-    style IN fill:#2d4f1e,stroke:#fff,stroke-width:2px,color:#fff
-    style UT fill:#1e3d5f,stroke:#fff,stroke-width:2px,color:#fff
-    style Start fill:#f9f,stroke:#333,stroke-width:2px,color:#
-
-```
 
 
 
