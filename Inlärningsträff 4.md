@@ -204,7 +204,14 @@ Ge en förklaring till detta fenomen. 25
 
 Inkludera information om vad det är som är med och skapar aktuella drivkrafter under viloförhållanden. 
 
-$$P \propto \frac{1}{V}$$
+> [!NOTE] Svar 15
+> Luft flödar alltid från höft tryck till lågt tryck. Enligt Boyles lag säger att $P \propto 1/V$ vilket innebär... att när volymen ökar minskat trycket. 
+>Inandning- Inspiration (aktivt process)
+>	Muskelarbete-Diafragman kontraheras(rör sig nedåt) och yttre interkostalmuskler lyfter revben. 
+>	Volymökning- Brösthålans volym ökar, eftersom lungorna är fästa via lungsäcken (pleuran) ökar även lungornas volym.
+>	Tryckfall Alveolärtrycket ($P_{alv}$) sjunker under atmosfärstrycket ($P_{atm}$).* **Resultat:** $P_{alv} < P_{atm}$
+>	Luftflöde: Luft
+    
 
 
 ```mermaid
