@@ -227,7 +227,7 @@ Fråga 16: Beskriv hur transporten av syre $(O_{2})$ från lungornas alveoler (l
 
 > [!NOTE] Svar 16
 > 1. Gasutbtye i lungorna ( Alveol->Blod)
-> 	P
+> 	Processen strys av diffusion enligt Ficks lag
 
 
 
