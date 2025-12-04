@@ -129,7 +129,9 @@ Beskriv hur detta i sin tur leder till att den cytosola koncentrationen av $Ca^{
 > Motorändplattan: Acetylkolin binder till receptor-> Na+ strömmar in -> Lokal depolarisering.
 > Aktionspotential-> Spänningsreglerande Na+ kanaler öppnas och en aktionspotential sprids över hela muskelfiberns yta([[Sarcolemma]])
 > T-rör (Transversala tubuli): Aktionspotentialleds djupt in i cellen via T-rören
-> Spänningssensor: Depolarisering i T-rören aktiverar DHP-receptor som sitter i 
+> Spänningssensor: Depolarisering i T-rören aktiverar DHP-receptor som sitter i T-rörets membran.
+> Mekanisk koppling- DHP-receptor är fysiskt kopplad till Ca2+ kanaler (Ryr) i [[SR]]   (Sarkoplasmatiska retiklet)
+> Kalicumfrisättning- När DHP-receptor ändrar form drar den upp Ca2+ kanaler i SR. Det lagnade kalciumet strömmar ut i cytosolen och startat kontraktion
 
 ---
 
@@ -138,6 +140,7 @@ Beskriv hur detta i sin tur leder till att den cytosola koncentrationen av $Ca^{
 Motivera ditt svar. 18
 
 > [!NOTE] Svar 9
+> Regleringskom
 
 ---
 
