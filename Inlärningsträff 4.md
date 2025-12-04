@@ -324,9 +324,9 @@ Hur kommer detta potentiellt påverka pH-värdet i blodet?
 
 > [!NOTE] Svar 19
 > Hyperventilering vädrar ut för mycket ($CO_2$). Eftersom ($CO_2$) i blodet bilder kolsyra, kommer minskade nivåer av ($CO_2$) leda till att blodet blir mindre surt; pH-värde ökar.
-> Reaktionen sker enligt Le chateliers princip: 
+> 	Reaktionen sker enligt Le chateliers princip: jämvikt åt vänster
 > $$CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$$
-> 
+> Minskande H+ konc, $pH = -log[H^+]$ innebär pH stiger pga minskning av protoner.
 
 ---
 
