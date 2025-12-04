@@ -281,13 +281,36 @@ Fråga 18: Beskriv hur koldioxid transporterats från cellerna i kroppens olika 
 > 1. Diffusion: $CO_2$ rör sig från högt tryck i arbetande celler till lägre tryck i vävnadskapillärerna. 
 > 2. Transportmekanismer:
 > 	1. Löst: ~7-10% stannar kvar löst i plasman (eftersom $CO_2$ är mer lösligt än $O_2$)
-> 	2. .Karbaminohemoglobin([[Hemoglobin]] binder till CO2): ~20-23% binder till aminosyror på hemoglobinets proteinkedjor (inte till järnet).
+> 	2. .Karbaminohemoglobin([[Hemoglobin]] binder till CO2): ($HbCO_2$)
+> 	   ~20-23% binder till aminosyror på hemoglobinets proteinkedjor (inte till järnet).
 > 	 3.  Vätekarbonat (Huvudvägen): ~70%
 > 	    Inuti erytrocyten katalyserar enzymet karbanhydras reaktionen
 > 		 $CO_2 + H_2O \rightarrow H_2CO_3$ (Kolsyra).
-> 		 Kolsyra sönderfaller till 
+> 		 Kolsyra sönderfaller till $H^+$ och $HCO_3^-$ (Vätekarbonat).
+> 		 $HCO_3^-$  pumpas ut i plasman och fungerar som en pH-buffert under transporten.
+> 3. I lungorna: Reaktionen går åt motsatt håll. $HCO_3^-$  går i erytrocyten som omvandlas tillbaka till $CO_2$ och diffunderar ut till alveolen och andas ut.
 
 
+```mermaid
+graph TD
+    A[Solubility (g gas / kg water)]
+    B(CO2 at 37°C: 1.05)
+    C(O2 at 37°C: 0.027)
+
+    %% Use a subgraph to represent the chart structure
+    subgraph Comparison at 37°C
+        B -->|1.05 g/kg| D{CO2}
+        C -->|0.027 g/kg| E{O2}
+    end
+
+    %% The bar chart itself, using the 'pie' chart type for easy visualization of relative values, although it's not a true 'pie'.
+    %% For a bar chart, the 'gantt' or 'C4' (with some hacking) is possible, but a standard 'pie' is the simplest way to show comparative magnitude quickly in Mermaid.
+    %% Let's use a simpler visual table or just the values in the flow chart for clarity, as Mermaid lacks a dedicated bar chart.
+    
+    %% Alternative: Use a 'pie' chart to show the massive difference in magnitude.
+    pie title Relative Solubility in Water at 37°C (g/kg)
+        "CO2 (1.05)" : 1.05
+        "O2 (0.027)" : 0.027
 ---
 
 ### Fråga 19: Då en person hyperventilerar ("andas för mycket") kan större mängder koldioxid $(CO_{2})$ än önskvärt andas ut.
