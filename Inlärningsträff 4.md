@@ -175,7 +175,11 @@ Inkludera information kring det övergripande resultatet av de olika delreaktion
 Observera att svars utrymmet är mer omfattande denna gång, jämfört med när en liknande fråga var med på en tidigare inlärningsträff. Därmed förväntas mer detaljer inkluderas i det svar du ska rita och skriva nu till denna inlärningsträff. 22
 
 > [!NOTE] Svar 12
-> 
+> 3 huvudsteg: Glykolysen, Citronsyracykel och oxidativ fosforylering
+> 1. Glykolysen
+> 	   
+
+
 
 ---
 
