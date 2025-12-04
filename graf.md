@@ -69,3 +69,43 @@ graph TD
     %% Länkar för layout (osynliga för styrning)
     S1 ~~~ S2 ~~~ S3
 ```
+
+
+```mermaid
+flowchart TD
+  A[Glucose] --> B["Hexokinase\nG6P"]
+  B --> C["Phosphoglucose isomerase\nF6P"]
+  C --> D["PFK-1\nF1,6BP"]
+  D --> E["Aldolase\nDHAP + GAP"]
+  E --> F["Triose phosphate isomerase\n2 GAP"]
+
+  F --> G["GAP dehydrogenase\n1,3-BPG\nProduces 2 NADH"]
+  G --> H["Phosphoglycerate kinase\n3-PG\n2 ATP"]
+  H --> I["Phosphoglycerate mutase\n2-PG"]
+  I --> J["Enolase\nPEP"]
+  J --> K["Pyruvate kinase\n2 Pyruvate\n2 ATP"]
+
+  K --> L[Fermentation]
+
+  subgraph Anaerobic_Fermentation ["Fermentation pathways"]
+    direction LR
+    M["LDH\nPyruvate → Lactate"] 
+    N["Lactate\nRegenerates NAD+"]
+    P["Pyruvate decarboxylase\nPyruvate → Acetaldehyde + CO2"]
+    Q["Alcohol dehydrogenase\nAcetaldehyde → Ethanol"]
+    R["Ethanol\nRegenerates NAD+"]
+  end
+
+  L --> M
+  M --> N
+  L --> P
+  P --> Q
+  Q --> R
+
+  N --> F
+  R --> F
+
+  K --> T["Net ATP yield: 2 ATP per glucose"]
+
+```
+

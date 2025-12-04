@@ -176,8 +176,12 @@ Observera att svars utrymmet är mer omfattande denna gång, jämfört med när 
 
 > [!NOTE] Svar 12
 > 3 huvudsteg: Glykolysen, Citronsyracykel och oxidativ fosforylering
-> 1. Glykolysen
-> 	   
+> 1. Glykolysen;steg där glukos molekyl bryts ned.
+> 	 - **Reaktion:** Glukos genomgår en nedbrytningsprocess (glykolys)
+> 	- **Produkter:** En glukosmolekyl omvandlas till två pyruvatmolekyler
+> 	 **Energiproduktion:** Under denna process utvinns energi som genererar **2 ATP**
+ 
+
 
 
 
