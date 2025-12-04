@@ -115,6 +115,7 @@ Hur gör den det med hjälp av neurotransmittorer? 15
 Hur kommer detta att kunna påverka mängden $Ca^{2+}$ i blodet? 16
 
 > [!NOTE] Svar 7
+> PTH stimulerar (indirekt) osteoklaster; som ökar sin aktiviet och utsöndrar syra och enzymer som löser upp benmatrixen (kollagen och kalciumfosfatkristaller). Kalciumjoner frigörs från benet och går ut i blodomloppet.
 
 ---
 
