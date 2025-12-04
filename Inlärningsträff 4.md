@@ -278,7 +278,7 @@ Från vilken typ av blodkärl bör man tappa blod för att få en så god bild s
 Fråga 18: Beskriv hur koldioxid transporterats från cellerna i kroppens olika vävnader till lungornas alveoler. 
 
 > [!NOTE] Svar 18
-> 
+> 1. Diffusion
 
 ---
 
