@@ -95,7 +95,8 @@ graph LR
 Motivera ditt svar. 14
 
 > [!NOTE] Svar 5
-> Patofysiologi- Vid MS attackerar immunförsvaret oligodendrocyter ( CNS-myelin). Det blir en förlust av isolering; myelin ökar 
+> Patofysiologi- Vid MS attackerar immunförsvaret oligodendrocyter ( CNS-myelin). Det blir en förlust av isolering; myelin ökar membranets resistens. 
+> Misslyckad saltatorisk fortledning-Na+ stömmar in, läcker laddningen ut genom oskyddat membranet instället att flöda inuti axonet till nästa nod. Aktionspotential saktar ner till ~1m/s.
 
 ---
 
@@ -104,6 +105,7 @@ Motivera ditt svar. 14
 Hur gör den det med hjälp av neurotransmittorer? 15
 
 > [!NOTE] Svar 6
+> Hyperpolarisering ([[IPSP]]) att sänka membranpotentialen länge bort från tröskelvärde tex -80mV. I jonkanaler
 
 ---
 
