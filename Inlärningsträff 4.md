@@ -278,7 +278,15 @@ Från vilken typ av blodkärl bör man tappa blod för att få en så god bild s
 Fråga 18: Beskriv hur koldioxid transporterats från cellerna i kroppens olika vävnader till lungornas alveoler. 
 
 > [!NOTE] Svar 18
-> 1. Diffusion
+> 1. Diffusion: $CO_2$ rör sig från högt tryck i arbetande celler till lägre tryck i vävnadskapillärerna. 
+> 2. Transportmekanismer:
+> 	1. Löst: ~7-10% stannar kvar löst i plasman (eftersom $CO_2$ är mer lösligt än $O_2$)
+> 	2. .Karbaminohemoglobin([[Hemoglobin]] binder till CO2): ~20-23% binder till aminosyror på hemoglobinets proteinkedjor (inte till järnet).
+> 	 3.  Vätekarbonat (Huvudvägen): ~70%
+> 	    Inuti erytrocyten katalyserar enzymet karbanhydras reaktionen
+> 		 $CO_2 + H_2O \rightarrow H_2CO_3$ (Kolsyra).
+> 		 Kolsyra sönderfaller till 
+
 
 ---
 
