@@ -116,7 +116,7 @@ Hur kommer detta att kunna påverka mängden $Ca^{2+}$ i blodet? 16
 
 > [!NOTE] Svar 7
 > PTH stimulerar (indirekt) osteoklaster; som ökar sin aktiviet och utsöndrar syra och enzymer som löser upp benmatrixen (kollagen och kalciumfosfatkristaller). Kalciumjoner frigörs från benet och går ut i blodomloppet.
-> patalogi- Hyperparatyreos är höga nivå
+> patalogi- Hyperparatyreos är höga nivåer av PTH leder till överdriven bennedbrytning-> skelett blir skört och risken för fraktur ökar. Hyperkalcemi kan påverka nerv och muskel funtion samt orsaka njursten
 
 ---
 
@@ -125,6 +125,8 @@ Hur kommer detta att kunna påverka mängden $Ca^{2+}$ i blodet? 16
 Beskriv hur detta i sin tur leder till att den cytosola koncentrationen av $Ca^{2+}$ i skelettmuskelcellen ökar kraftigt. 17
 
 > [!NOTE] Svar 8
+> Koppling mellan excitation och kontraktion;
+> Motorändplattan: Acetylkolin binder till receptor-> Na+ st
 
 ---
 
