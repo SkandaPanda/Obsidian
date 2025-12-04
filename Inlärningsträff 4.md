@@ -88,9 +88,6 @@ graph LR
 
 
 
-
-
-
 ---
 
 ### Fråga 5: Vid sjukdomen Multipel skleros (MS) kommer myelinskidorna i det centrala nervsystemet att skadas, troligtvis genom att kroppens eget immunförsvar attackerar aktuella strukturer. Vad händer med fortledningshastigheten av nervimpulser hos aktuella axoner då dessa förlorar myeliniseringen?
