@@ -183,9 +183,9 @@ Observera att svars utrymmet är mer omfattande denna gång, jämfört med när 
 
 > [!NOTE] Svar 13
 > 
-> A:
+> A:Musculus biceps brachii
 > 
-> **B:**
+> **B:** Musculus triceps brachii
 
 ---
 
@@ -194,6 +194,8 @@ Observera att svars utrymmet är mer omfattande denna gång, jämfört med när 
 Ge en förklaring till detta fenomen. 25
 
 > [!NOTE] Svar 14
+> Slemhissens försvar
+> 	Det respiratoriska epitetlet innehåller bägarceller ( producerar slem) och cilierance celler, det klibbiga slem fånger upp damn, bakterier och virus. Cilierna rör sig rytmiskt att transportera slemmet uppåt mot svalget där det kan sväljas ner eller hostas ut. Effekt från rökning-> Kemikaler i rök
 
 ---
 
