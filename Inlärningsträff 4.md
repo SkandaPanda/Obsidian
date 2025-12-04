@@ -143,7 +143,7 @@ Motivera ditt svar. 18
 > Regleringskomplexets roll-
 > 	Vila: Tropomyosin ligger runt aktinfilamentet och täcker över inbindingsställena för myosin. Troponin håller tropomyosin i denna blockerande form.
 > 	Aktivering: Ca2+ binder till troponin> ändrar form> Knuffar undan tropomyosin>bindningsställe exponeras.
-> Om det inte finns-> Mekanism för att översätta Ca2+ signalen till fysiskt rörelse är bruten äver om Ca2+ flöder ut i cellen finns det ingen protein som kan binda det och initera förändring. Tropomyosin ligger kvar och blockerar ( Steriskt hinder)
+> Om det inte finns-> Mekanism för att översätta Ca2+ signalen till fysiskt rörelse är bruten äver om Ca2+ flöder ut i cellen finns det ingen protein som kan binda det och initera förändring. Tropomyosin ligger kvar och blockerar ( Steriskt hinder). Myosinhuvudet kan inte binda till aktin-> Muskel kan inte genereras kraft.
 
 ---
 
@@ -152,6 +152,9 @@ Motivera ditt svar. 18
 Inled beskrivningen när myosinhuvudet sitter inbundet till aktinfilamentet, utan att ATP är inbundet. 19
 
 > [!NOTE] Svar 10
+> Krosbryggecykeln ( Cross bridge cycle): Start-> Rigor tillstånd (Mysoin bundet till aktin)
+> 	Lössning av en ATP molekyl binder till myosinhuvudet. Detta orsakar en konformationsförändring som gör att mysosinets affinitiet för aktin minskar-> Mysosin släpper aktinet. 
+> 	När myosin hydrolyseras ATP till ADP och en P grupp(Pi). Energin som frigörs lagars i mysoinhuvudet som rätar upp sig. Det myosinhuvudet binder till ett nytt bindningsställe på aktin(förutsatt att Ca2+ har flyttat tropomyosin)
 
 ---
 
