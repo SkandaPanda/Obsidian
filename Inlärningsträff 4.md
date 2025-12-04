@@ -232,13 +232,39 @@ Fråga 16: Beskriv hur transporten av syre $(O_{2})$ från lungornas alveoler (l
 > 	- Luften vi andas in blandas med kvarvarande luft i alveolerna, vilket ger ett alveolärt partialtryck ($P_{AlvO2}$) på ca **13,3 kPa** (100 mmHg).
 > 	Det venösa blodet som kommer till lungartärerna har lågt syretyck, $P_{vO2}$ ca 5,3 kPa (40 mmHg), eftersom syret har förbrukats i kroppen.Denna stora skillnad ($\Delta P \approx 8$ kPa) driver $O_2$ snabbt från alveolen till blodet.
 > 2. Transport i blodet:
-> 	[[Hemoglobin]]- varje hb är en tetramer bestånde av fyra peptidkjedor (2 $\alpha, 2 \beta$). Varje kedja har en hemgrupp med en central järnjon i reducerande form $(\mathrm{Fe}^{2+})$
+> 	[[Hemoglobin]]- varje hb är en tetramer bestånde av fyra peptidkjedor (2 $\alpha, 2 \beta$). Varje kedja har en hemgrupp med en central järnjon i reducerande form $(\mathrm{Fe}^{2+})$. Detta innebär att en enda Hb-molekyl kan bära max 4 molekyler $\mathrm{O_{2}}$. Reaktion 1 sker.
+> 3. Gasutbtye i vävnader:
+> 	Vävnads $P_{O2}$ är lågt (<5,3 kPa) eftersom cellerna förbrukar syre.
+> 	[[Hemoglobin]] affinitiet minskar
+ 	
 
 
+# Kemiska Reaktioner: Syretransport
 
+## 1. Syrebindning (I Lungorna)
+Detta visar inbindningen av syre till hemoglobin. Pilen indikerar att jämvikten förskjuts åt höger vid högt syretryck.
 
+$$
+\ce{Hb + 4 O2 ->[\text{Lungor}][\text{Hög } P_{\ce{O2}}] Hb(O2)4}
+$$
 
+## 2. Syredissociation (I Vävnaden)
+Här släpper hemoglobinet syret. 
 
+$$
+\ce{Hb(O2)4 <=>[\text{Vävnad}][\text{Låg } P_{\ce{O2}}] Hb + 4 O2}
+$$
+
+## 3. Bohr-effekten (Buffertsystemet)
+Koldioxid reagerar med vatten och bildar kolsyra, som sönderfaller till vätejoner (sänker pH). Detta är avgörande för Bohr-effekten.
+
+$$
+\ce{CO2 + H2O <=> H2CO3 <=> H+ + HCO3-}
+$$
+
+## 4. Partiella Tryck med Enheter
+* **Arteriellt tryck:** $\pu{13.3 kPa}$
+* **Venöst tryck:** $\pu{5.3 kPa}$
 
 
 
