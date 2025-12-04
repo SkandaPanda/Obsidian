@@ -105,7 +105,8 @@ Motivera ditt svar. 14
 Hur gör den det med hjälp av neurotransmittorer? 15
 
 > [!NOTE] Svar 6
-> Hyperpolarisering ([[IPSP]]) att sänka membranpotentialen länge bort från tröskelvärde tex -80mV. I jonkanaler
+> Hyperpolarisering ([[IPSP]]) att sänka membranpotentialen länge bort från tröskelvärde tex -80mV. I jonkanaler öppnas äntigen K+ eller Cl-; blir nervcellen mindre retbar. Det krävs en mycket starake stimulerande signal att övervinna denna hämning och utösa ett impuls. [[GABA]] är en vanlig hämmande signalsubstans.
+
 
 ---
 

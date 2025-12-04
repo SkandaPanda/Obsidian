@@ -1,0 +1,1 @@
+GABA is ==the primary inhibitory neurotransmitter in the central nervous system==, which means it calms brain activity by reducing neuronal excitability. It acts as a brake on the nervous system, promoting relaxation and influencing mood, anxiety, and sleep. GABA is a naturally occurring amino acid that can be found in some foods and is also available as a dietary supplement.
