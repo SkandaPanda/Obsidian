@@ -226,7 +226,8 @@ Inkludera information om vad det är som är med och skapar aktuella drivkrafter
 Fråga 16: Beskriv hur transporten av syre $(O_{2})$ från lungornas alveoler (lungblåsor) till cellerna i kroppens olika vävnader sker. 27
 
 > [!NOTE] Svar 16
-> 
+> 1. Gasutbtye i lungorna ( Alveol->Blod)
+> 	P
 
 
 
