@@ -95,6 +95,7 @@ graph LR
 Motivera ditt svar. 14
 
 > [!NOTE] Svar 5
+> Patofysiologi- Vid MS attackerar immunförsvaret oligodendrocyter ( CNS-myelin). Det blir en förlust av isolering; myelin ökar 
 
 ---
 
