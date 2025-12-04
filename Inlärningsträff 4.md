@@ -177,9 +177,14 @@ Observera att svars utrymmet är mer omfattande denna gång, jämfört med när 
 > [!NOTE] Svar 12
 > 3 huvudsteg: Glykolysen, Citronsyracykel och oxidativ fosforylering
 > 1. Glykolysen;steg där glukos molekyl bryts ned.
-> 	 - **Reaktion:** Glukos genomgår en nedbrytningsprocess (glykolys)
-> 	- **Produkter:** En glukosmolekyl omvandlas till två pyruvatmolekyler
-> 	 **Energiproduktion:** Under denna process utvinns energi som genererar **2 ATP**
+> 	Reaktion: Glukos genomgår en nedbrytningsprocess (glykolys)
+> 	Produkter:En glukosmolekyl omvandlas till två pyruvatmolekyler
+> 	Energiproduktion: Under denna process utvinns energi som genererar **2 ATP**
+> 	 Elektronbärare: Processen frigör elektroner ($e^-$) som tas om hand för senare användning.
+> 2. Citronsyracykeln ((inklusive bildandet av Acetyl-CoA): 
+> 	1.Bildandet av Acetyl-CoA: De två pyruvatmolekylerna från glykolysen omvandlas först till Acetyl-CoA. I detta steg frigörs elektroner ($e^-$).
+> 	2. Bildandet av Acetyl-CoA:
+> 	3. Reaktioner i cykeln: Acetyl-CoA genomgår en fullständig oxidation i cykeln. Under varvets gång avges elektroner ($e^-$) vid flera tillfällen.
  
 
 
