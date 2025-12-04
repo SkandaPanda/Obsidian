@@ -228,7 +228,16 @@ Fråga 16: Beskriv hur transporten av syre $(O_{2})$ från lungornas alveoler (l
 > [!NOTE] Svar 16
 > 1. Gasutbtye i lungorna ( Alveol->Blod)
 > 	Processen strys av diffusion enligt [[Ficks lag]]. 
-> 	
+> **Partialtrycksgradienten ($\Delta P$):**
+> 	- Luften vi andas in blandas med kvarvarande luft i alveolerna, vilket ger ett alveolärt partialtryck ($P_{AlvO2}$) på ca **13,3 kPa** (100 mmHg).
+> 	Det venösa blodet som kommer till lungartärerna har lågt syretyck, $P_{vO2}$ ca 5,3 kPa (40 mmHg), eftersom syret har förbrukats i kroppen.Denna stora skillnad ($\Delta P \approx 8$ kPa) driver $O_2$ snabbt från alveolen till blodet.
+> 2. Transport i blodet:
+> 	[[Hemoglobin]]- varje hb är en tetramer bestånde av fyra peptidkjedor (2 $\alpha, 2 \beta$). Varje kedja har en hemgrupp med en central järnjon i reducerande form $(\mathrm{Fe}^{2+})$
+
+
+
+
+
 
 
 
