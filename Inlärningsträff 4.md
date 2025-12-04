@@ -163,7 +163,7 @@ Inled beskrivningen när myosinhuvudet sitter inbundet till aktinfilamentet, uta
 Förklara hur detta tillstånd uppstår. 20
 
 > [!NOTE] Svar 11
-> Vid döden upphör ATP-produktionen.-> Metabolism stannar; syretillförseln upphör och cellandning (ATP-produktionen.) stannar. ATP-beroende Ca2+ pumpar slutar fungera. Membraner bryts ner och Ca2+ läcker ut från SR till cytosolen.Högt Ca2+ binder troponin
+> Vid döden upphör ATP-produktionen.-> Metabolism stannar; syretillförseln upphör och cellandning (ATP-produktionen.) stannar. ATP-beroende Ca2+ pumpar slutar fungera. Membraner bryts ner och Ca2+ läcker ut från SR till cytosolen.Högt Ca2+ binder troponin som leder till att tropomyosin flyttar- > Mysoin binder till Aktin. Steg att släppa aktin kräver inbindning av nytt ATP. Eftersom ATP är slut kan inte myosinhuvudet lossna. Muskelerna låsas i ett kontraherat, stelt tillstånd som är rigor mortis.
 
 ---
 
