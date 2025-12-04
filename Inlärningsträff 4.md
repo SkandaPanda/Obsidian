@@ -195,7 +195,8 @@ Ge en förklaring till detta fenomen. 25
 
 > [!NOTE] Svar 14
 > Slemhissens försvar
-> 	Det respiratoriska epitetlet innehåller bägarceller ( producerar slem) och cilierance celler, det klibbiga slem fånger upp damn, bakterier och virus. Cilierna rör sig rytmiskt att transportera slemmet uppåt mot svalget där det kan sväljas ner eller hostas ut. Effekt från rökning-> Kemikaler i rök
+> 	Det respiratoriska epitetlet innehåller bägarceller ( producerar slem) och cilierance celler, det klibbiga slem fånger upp damn, bakterier och virus. Cilierna rör sig rytmiskt att transportera slemmet uppåt mot svalget där det kan sväljas ner eller hostas ut. Effekt från rökning-> Kemikaler i rök fungerar som [[ciliotoxiner]]. Ciliernas rörelse saktar ner / stannar som leder till cilierade celler dör med tiden och ersätts av platta celler eller mer bägarceller som leder till ökad slemproduktion. Konsekvens av det blir slemstagnation. bakterier renas inte bort utan stannar kvar i ett miljö där det är varmt och näringsrikt vilket leder till lunginflamation.
+
 
 ---
 
@@ -204,6 +205,7 @@ Ge en förklaring till detta fenomen. 25
 Inkludera information om vad det är som är med och skapar aktuella drivkrafter under viloförhållanden. 26
 
 > [!NOTE] Svar 15
+> 
 
 ---
 

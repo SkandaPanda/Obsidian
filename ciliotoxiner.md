@@ -1,0 +1,1 @@
+Ciliotoxins are ==substances that damage or impair the function of cilia==, which are hair-like structures in the respiratory tract that move mucus and trapped particles up and out of the lungs
