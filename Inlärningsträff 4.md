@@ -154,7 +154,7 @@ Inled beskrivningen när myosinhuvudet sitter inbundet till aktinfilamentet, uta
 > [!NOTE] Svar 10
 > Krosbryggecykeln ( Cross bridge cycle): Start-> Rigor tillstånd (Mysoin bundet till aktin)
 > 	Lössning av en ATP molekyl binder till myosinhuvudet. Detta orsakar en konformationsförändring som gör att mysosinets affinitiet för aktin minskar-> Mysosin släpper aktinet. 
-> 	När myosin hydrolyseras ATP till ADP och en P grupp(Pi). Energin som frigörs lagars i mysoinhuvudet som rätar upp sig. Det myosinhuvudet binder till ett nytt bindningsställe på aktin(förutsatt att Ca2+ har flyttat tropomyosin)
+> 	När myosin hydrolyseras ATP till ADP och en P grupp(Pi). Energin som frigörs lagars i mysoinhuvudet som rätar upp sig. Det myosinhuvudet binder till ett nytt bindningsställe på aktin(förutsatt att Ca2+ har flyttat tropomyosin). När Pi(och efter ADP) släpper, utlösas den lagrade energin. Myosinhuvudet vrider sig tillbaka till sitt låg-energiläge och drar in aktinfilamentet mot sakromerens M-linje.
 
 ---
 
@@ -163,6 +163,7 @@ Inled beskrivningen när myosinhuvudet sitter inbundet till aktinfilamentet, uta
 Förklara hur detta tillstånd uppstår. 20
 
 > [!NOTE] Svar 11
+> Vid döden upphör ATP-produktionen.-> Metabolism stannar; syretillförseln upphör och cellandning (ATP-produktionen.) stannar. ATP-beroende Ca2+ pumpar slutar fungera. Membraner bryts ner och Ca2+ läcker ut från SR till cytosolen.Högt Ca2+ binder troponin
 
 ---
 
