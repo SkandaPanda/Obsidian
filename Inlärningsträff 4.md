@@ -140,7 +140,10 @@ Beskriv hur detta i sin tur leder till att den cytosola koncentrationen av $Ca^{
 Motivera ditt svar. 18
 
 > [!NOTE] Svar 9
-> Regleringskom
+> Regleringskomplexets roll-
+> 	Vila: Tropomyosin ligger runt aktinfilamentet och täcker över inbindingsställena för myosin. Troponin håller tropomyosin i denna blockerande form.
+> 	Aktivering: Ca2+ binder till troponin> ändrar form> Knuffar undan tropomyosin>bindningsställe exponeras.
+> Om det inte finns-> Mekanism för att översätta Ca2+ signalen till fysiskt rörelse är bruten äver om Ca2+ flöder ut i cellen finns det ingen protein som kan binda det och initera förändring. Tropomyosin ligger kvar och blockerar ( Steriskt hinder)
 
 ---
 
