@@ -126,7 +126,8 @@ Beskriv hur detta i sin tur leder till att den cytosola koncentrationen av $Ca^{
 
 > [!NOTE] Svar 8
 > Koppling mellan excitation och kontraktion;
-> Motorändplattan: Acetylkolin binder till receptor-> Na+ st
+> Motorändplattan: Acetylkolin binder till receptor-> Na+ strömmar in -> Lokal depolarisering.
+> Aktionspotential-> Spänningsreglerande Na+ kanaler öppnas och en aktionspotential sprids över hela muskelfiberns yta(Sarcolemma)
 
 ---
 
