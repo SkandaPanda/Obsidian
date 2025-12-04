@@ -234,10 +234,10 @@ Fråga 16: Beskriv hur transporten av syre $(O_{2})$ från lungornas alveoler (l
 > 2. Transport i blodet:
 > 	[[Hemoglobin]]- varje hb är en tetramer bestånde av fyra peptidkjedor (2 $\alpha, 2 \beta$). Varje kedja har en hemgrupp med en central järnjon i reducerande form $(\mathrm{Fe}^{2+})$. Detta innebär att en enda Hb-molekyl kan bära max 4 molekyler $\mathrm{O_{2}}$. Reaktion 1 sker.
 > 3. Gasutbtye i vävnader:
-> 	Vävnads $P_{O2}$ är lågt (<5,3 kPa) eftersom cellerna förbrukar syre.
-> 	[[Hemoglobin]] affinitiet minskar
+> 	Vävnads $P_{O2}$ är lågt (<5,3 kPa) eftersom cellerna förbrukar syre. 
+> 	[[Hemoglobin]] affinitiet minskar (reaktion 3); inblandning släpper lättare vid höga tempratur och lågt pH i vävnader.
+> 	$\mathrm(O_2)$ lossnar från Hb,Eftersom ärtarblodet kommer in med 13,3 kPa, diffunderar $\mathrm(O_2)$ snabbt ut ur erytrocyten genom plasman och in i vävnadsceller.
  	
-
 
 # Kemiska Reaktioner: Syretransport
 
@@ -261,10 +261,6 @@ Koldioxid reagerar med vatten och bildar kolsyra, som sönderfaller till vätejo
 $$
 \ce{CO2 + H2O <=> H2CO3 <=> H+ + HCO3-}
 $$
-
-## 4. Partiella Tryck med Enheter
-* **Arteriellt tryck:** $\pu{13.3 kPa}$
-* **Venöst tryck:** $\pu{5.3 kPa}$
 
 
 
