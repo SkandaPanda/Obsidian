@@ -27,7 +27,8 @@ Vad är skillnaden i funktion, mellan dessa tre typer av nervceller? 7
 > 2. Interneuron. Funktion- integration och bearbetning. Analyserär sensorisk information och bestämmer lämplig motorisk respons. De bildär komplexa nätverk för minne och kognition. Struktur- oftast multipolära. Ligger iniuti CNS, 99% av alla nervceller är interneuron.
 > 3. Motorisk(Efferenta)- Funktion- Exekvering. De bär kommando signaler från CNS till effektorer (målcellen). Finns 2 typer; [[Somatomotoriska]] och [[Autonoma]]. Signal- Skickär aktionspotential från [[CNS]] ut i kroppen
 
-
+1. Primär eller sekundar??
+2. dendriter och celllkärna.
 
 ---
 
