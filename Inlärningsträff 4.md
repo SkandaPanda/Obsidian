@@ -1,4 +1,4 @@
-
+6
 # Påbyggnadsuppgifter knutna till Inlärningsträff 4 utan svar
 
 Fråga 1: Vad är det latinska namnet på följande strukturer. 1
@@ -337,4 +337,8 @@ Hur kommer detta potentiellt påverka pH-värdet i blodet?
 
 > [!NOTE] Svar 20
 > 
-> A:
+> A:_Pharynx Svalget_
+> _Larynx Struphuvudet
+> _Epiglottis_ (Struplocket).
+> _Trachea_ (Luftstrupen).
+> _Nervus phrenicus_._
