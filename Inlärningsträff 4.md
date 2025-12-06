@@ -1,4 +1,4 @@
-6
+
 # Påbyggnadsuppgifter knutna till Inlärningsträff 4 utan svar
 
 Fråga 1: Vad är det latinska namnet på följande strukturer. 1
