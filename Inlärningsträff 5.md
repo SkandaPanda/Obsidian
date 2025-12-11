@@ -130,13 +130,14 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 11: Förklara varför kärlväggen hos aortan innehåller rikligt med elastiska fibrer, och hur påverkar detta blodtrycket i systemkretsloppet under diastole?
 
 > [!NOTE] Svar 11
+>  Aortans vägg innehåller rikligt med elastiska fibrer för att kunna fungera som en "tryckrservoar". Under [[systole]] när hjärtat pumpar ut, expanderar aortaväggen och lagar 75% av slagvolym. Under [[diastole]] när hjärtat slappnar av, fjädrar tillbaka. (Windkessel-effekt). Detta pressar de lagrade blodet vidar 
 
 ---
 
 ### Fråga 12: Beskriv hur vätskeflödet mellan en vävnadskapillär och dess omgivning förändras om mängden plasmaproteiner (proteinerna i blodets vävnadsvätska) skulle minska?
 
 > [!NOTE] Svar 12
-> Aortans vägg innehåller rikligt med elastiska fibrer för att kunna fungera som en "tryckrservoar". Under [[systole]] när
+>
 
 ---
 
