@@ -74,17 +74,11 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 
 > [!NOTE] Svar 6
 > Hjärtats minutvolym regleras genom $$Minutvolym = Slagvolym \times Hjärtfrekvens$$
-> 1. ## **. Hjärtfrekvens (HR)**
-
-Hjärtfrekvensen bestäms av **sinusknutan**, vars pacemakerceller spontant depolariseras (~100 slag/min). Den moduleras av det autonoma nervsystemet:
-
-### **Sympatiska nervsystemet – ökar HR (positiv kronotrop effekt)**
-
-Adrenalin/noradrenalin binder till **β₁-receptorer** i sinusknutan → aktiverar G-protein → ökat cAMP → aktivering av PKA → fler Na⁺-kanaler öppnas → tröskelvärdet nås snabbare → snabbare depolarisation.
-
-### **Parasympatiska nervsystemet – sänker HR**
-
-Acetylkolin binder till **M2-receptorer** → minskat cAMP + öppning av K⁺-kanaler → hyperpolarisering → långsammare depolarisation.
+> 1. Hjärtfrekvens utgörs av antalet hjärt inslag per minut och syrs primärt av sinusknutan, vars celler spontant depolariseras och skapar aktionpotential, (Pacemaker-potential). ~100 slag/min, och moduleras av nervsystemet.
+> 	1. Sympatiska nervsystemet (ökar frekvens) via signalsubstancerna adrenalin och noraadrenalin som binder till Beta1-receptor i [[sinusknutan]]. Detta aktiverar ett stilmulerance G-protein $(G)_2$ som ökar produktion av cAMP och aktiverar PKA. Resultat blir att Na+ kanaler öppnas vilket gör att tröskelvärde för en aktionpotential nås snabbare, ger ett positivt kronotrop ( ökad puls)
+> 	2. Parasympatiska nervsystemet(sänker frekvens) via acetlykolin som binder till M2-receptor.Detta hämmar bildande av cAMP och öppnar K+ kanaler.
+> 2. Slagvolym är skillnaden mellan den blod volymsom finns i kammaren innan kontraktion(EDV) och det som finns kvar fter (ESV).
+> 	   1. Preload(Frank-Starlings) är det tryck som skapas av blodet som fyller kamerna under diastole. Enligt Frank leder en större fyllnad av kammaren till att hjärtmuskelcellerna tänjs ut,När sakromerr i muskelcellerna sträcks ut ökar deras kontraktion vilket gör att hjärya pumpar ut dem ökade blodmängden. D
 
 
 
