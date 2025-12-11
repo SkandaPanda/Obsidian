@@ -79,7 +79,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 	2. Parasympatiska nervsystemet(sänker frekvens) via acetlykolin som binder till M2-receptor.Detta hämmar bildande av cAMP och öppnar K+ kanaler.
 > 2. Slagvolym är skillnaden mellan den blod volymsom finns i kammaren innan kontraktion(EDV) och det som finns kvar fter (ESV).
 > 	   1. Preload(Frank-Starlings) är det tryck som skapas av blodet som fyller kamerna under diastole. Enligt Frank leder en större fyllnad av kammaren till att hjärtmuskelcellerna tänjs ut,När sakromerr i muskelcellerna sträcks ut ökar deras kontraktion vilket gör att hjärya pumpar ut dem ökade blodmängden. Det venösa återflödet ökar.
-> 	   2. Kontraktillitet (Inotrop effekt).Dessa avser hjärtmuskels förmåga att kontrahera
+> 	   2. Kontraktillitet (Inotrop effekt).Dessa avser hjärtmuskels förmåga att kontrahera vid en given muskelängd. Mekanism ökar inflöde av Ca2+ till cellens cytosol.
+> 3. 
 
 
 
