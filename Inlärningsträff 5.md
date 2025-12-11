@@ -31,7 +31,7 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > [!NOTE] Svar 2
 > A) Brösttumör: Celler som lämnar tumören går via venerna till höger hjärta och pumpas in i lungkrettsloppet. De kan fastna i lungornas kapillär
 > B) Blod från tarmen passerar först i de hepatitiska portasystem via portven(v.porate heptitis). Cancer celler kan hammna i levern
-> C) Celler som lämnar lung, går via lungven 
+> C) Celler som lämnar lung, går via lungven till vänster hjärta och pu,pas ut i systemkretsloppet via aortan. Kan hammna vart som helst i kroppen.
 
 
 ---
@@ -39,6 +39,7 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 3: Beskriv hur hypotalamus kan reglera utsöndringen av hormoner ifrån hypofysens framlob
 
 > [!NOTE] Svar 3
+> Hypotalamus reglerar ursöndring av hormoner från hypofysens framlob genom ett portasystem. Neurosekretoriska celler i hypotalamus insöndrar neuro hormoner(GH-RH) i kapillärnätverk
 
 ---
 
