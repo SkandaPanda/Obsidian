@@ -189,6 +189,7 @@ $$
 ### Fråga 17: Hur skulle det arteriella blodtrycket i systemkretsloppet förändras, om glattmuskulaturen i systemkretsloppets samtliga arterioler kontraherade kraftigt? Motivera ditt svar.
 
 > [!NOTE] Svar 17
+> Om glattmuskulaturen i arteriolerna kontraherar kraftigt skulle de arteriella blodtrycket stiga. Arteriolerna är typ som resistanskärl, när de drar ihop sig ökar motstånd mot blodflöde avsevärt. Blodtryck=minutvolym x resistans, leder en ökad resistans direkt till ett högre blodtryck i artärena uppströms
 
 ---
 
