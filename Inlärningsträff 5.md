@@ -196,7 +196,7 @@ $$
 ### Fråga 18: Hur skulle det arteriella blodtrycket i systemkretsloppet förändras om glattmuskulaturen i systemkretsloppets vener kontraherade? Motivera ditt svar.
 
 > [!NOTE] Svar 18
-> Om glattmuskulaturen i venerna kontraherar kommer det arteriella blodtrycket att öka. Sker eftersom kontraktion minskar venernas diameter och därmed höjer ventrycket vilket driver ett stöne venöst åtherflöde av blod tillbaka till hjärtat. Det ökade åtherflödet leder till em större fyllnad av hjärtat(slutdiastolisk volym) vilket ökar slagvolymen. Eftersom hjä
+> Om glattmuskulaturen i venerna kontraherar kommer det arteriella blodtrycket att öka. Sker eftersom kontraktion minskar venernas diameter och därmed höjer ventrycket vilket driver ett stöne venöst åtherflöde av blod tillbaka till hjärtat. Det ökade åtherflödet leder till em större fyllnad av hjärtat(slutdiastolisk volym) vilket ökar slagvolymen. Eftersom hjärtats minutvolym är produkten av slagvolym och hjärtats minutvolym är produkten  av slagvolym x hjärtfrekvens, lerder den öknade slagvolym till en högre minutvolym och då det arteriella blodtrycket bestäms av Hjärtats minutvolym x Totalt perifert motstånd som resulterar detta flöde i ett förhöjt blodtryck.
 
 ---
 
