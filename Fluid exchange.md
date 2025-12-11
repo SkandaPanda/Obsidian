@@ -1,0 +1,1 @@
+![[Gemini_Generated_Image_wvom5bwvom5bwvom.png]]

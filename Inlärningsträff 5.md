@@ -139,12 +139,9 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > [!NOTE] Svar 12
 > Börjar med Starlings hypothesis som beskiver de krafter som styr vätskerörelse över kapillärvägen. Det är det fysika trycket som vätska mellan blodet i kapillären och vävnadsvätska som omger cellerna strys av balansen mellan 2 typer
 >  1. Hydrostatiskt tyrck- det fysika trycket som vätskan utöver mot väggarna.
-> 	Kapillärt hydrostatiskt tryck ($P_c$): Blodtrycket inne i kapillären. Detta tryck vill pressa vätska UT ur kapillären.Interstitiellt hydrostatiskt tryck ($P_{if}$): Trycket i vävnaden utanför. Detta är ofta nära noll eller svagt negativt, men om det stiger vill det pressa vätska IN i kapillären.
+> 	[Kapillärt]() hydrostatiskt tryck ($P_c$): Blodtrycket inne i kapillären. Detta tryck vill pressa vätska UT ur kapillären.Interstitiellt hydrostatiskt tryck ($P_{if}$): Trycket i vävnaden utanför. Detta är ofta nära noll eller svagt negativt, men om det stiger vill det pressa vätska IN i kapillären.
 > 	1. Kolloidosmotiskt tryck.: Skapas av koncentrationsskillnaden av lösta partiklar strävar efter att dra vätska tillbaka i kapillär(reabsobtion(osmos)). Skillnaden i osmotisk tryck upprätthåller främst av plasmaproteiner som på grund av sin storlek stannar kvar i blodbanan ioch skapar Kolloidosmotiskt tryck
 > Om mängen plasmaproteiner minskar tex vid svält sjunker det kolloidosmotiskt trycket i blodet. Eftersom de osmotisk trycket är den kraft som ansvarar för att dra tillbaka vätska in i kapillärem, leder en sänkning av detta tryck till att förmågan att reabsobtion vatten minskar. Det hydrostatiskt trycket som driver vätska ut ur kapillär, kommer därmed att dominiera över det osmotisk trycket undet en stor del av kapillärs längd jamfört med normala förhållanden. Konsekvensen blir att netto flöde av vätska ut i vävnad sjunker samtidigt som återflödet till blodet minskar, vilket resulterar i att mer vätska ansamlas i vävnad.
-
-
-
 
 
 
@@ -153,6 +150,7 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 13: Beskriv hur skelettmuskelkontraktioner runt venerna i bland annat benen kan öka det venösa återflödet.
 
 > [!NOTE] Svar 13
+> 
 
 ---
 
