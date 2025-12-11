@@ -180,7 +180,9 @@ $$
 ### Fråga 16: Hur kan storleken på det venösa återflödet från systemkretsloppet ökas?
 
 > [!NOTE] Svar 16
-> Det kan ökas gemom att det är en skelettmuskelpumpen, den respiratoriska pumpen
+> Det kan ökas gemom att det är en skelettmuskelpumpen: När skelettmuskler kontraherar blir de kortare och tjockare vilket leder till att de trycker närliggande vener.
+> Sympatisk nervstimulering: Det sympatiska nervesystemet kan aktiverar glattmuskulaturen i venväggarna att kontrahera. Minskar veneras diameter och ökar tycket inuti de vilket leder till mer blod tillbaka till hjärtat
+> Andningspumpen: Vid en djup inandning sänks trycket i brösthålan där hjärtat befinner sig
 
 ---
 
