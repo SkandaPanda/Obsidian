@@ -107,6 +107,7 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 8: Beskriv hur det autonoma nervsystemet reglerar hjärtfrekvensen och hur detta sker på nivån av de individuella autorytmiska hjärtmuskelcellerna i sinusknutan.
 
 > [!NOTE] Svar 8
+> Det autonoma nervsystemet reglerar hjärtfrekvens genom att påverkar lutningrn på pacemaker-potential i sinusknutan celler
 
 ---
 
