@@ -136,7 +136,7 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 12: Beskriv hur vätskeflödet mellan en vävnadskapillär och dess omgivning förändras om mängden plasmaproteiner (proteinerna i blodets vävnadsvätska) skulle minska?
 
 > [!NOTE] Svar 12
-> 
+> Aortans vägg innehåller rikligt med elastiska fibrer för att kunna fungera som en "tryckrservoar". Under [[systole]] när
 
 ---
 

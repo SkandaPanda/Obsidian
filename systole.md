@@ -1,0 +1,1 @@
+Systole is the heart's contraction phase during the cardiac cycle, where the heart muscle squeezes to pump blood out of its chambers and into the circulatory system (like the aorta and pulmonary artery).
