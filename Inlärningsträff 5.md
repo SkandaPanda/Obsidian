@@ -150,13 +150,14 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 13: Beskriv hur skelettmuskelkontraktioner runt venerna i bland annat benen kan öka det venösa återflödet.
 
 > [!NOTE] Svar 13
-> 
+> När skelett muskler i benen kontraheras pressas de djupt liggande venerna ihop. Eftersom venerna är försedda med klaffar som bara tilllåter flåde i bara en riktning, tvingas blodet vid kompression up till hjärtat.
 
 ---
 
 ### Fråga 14: Vad bestämmer storleken på det arteriella blodtrycket?
 
 > [!NOTE] Svar 14
+> Storlek bestäms av 2 fakt
 
 ---
 
