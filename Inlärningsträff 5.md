@@ -97,7 +97,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 	   A) Förmakskontraktion (atria), spidning i förmak: Från sinusknutan sprids till muskelcellerna i höger och vänster förmal via gap junctions. Kontraktion sker uppifrån och ned.
 > 	   B) Föredröjning i AV-knutan.; Signal  når AV-knutan som ligger i botten av högre förmak. Sker ett kritiskt föredröjning av signal.
 > 	   C) Passage genom(His bunt )Anulus Fibrosus: Signal kan inte spridas direkt från förmak till kammare eftersom de skijs åt av anulus fibrosus. (Hiska bunten): Signalen måste passerar genom his buntl. 
-> 	   D) Kammarkontration: ventriculus. Efter passage genom his bunt sprids signalen snabbt för att koordinera kontraktion. Signalen leds ner genom höger och vänster skänkel i skijeväggen(septum) och vifare ut i Purkinjefibrerna som löper ner till apex. Purkinjefibrerna överförar signalen till de kontraktila hjärtmuskelcellerna vid hjärtspetsen. Det sprids signalen cell-till-cell via gap junctions. Kamrar
+> 	   D) Kammarkontration: ventriculus. Efter passage genom his bunt sprids signalen snabbt för att koordinera kontraktion. Signalen leds ner genom höger och vänster skänkel i skijeväggen(septum) och vifare ut i Purkinjefibrerna som löper ner till apex. Purkinjefibrerna överförar signalen till de kontraktila hjärtmuskelcellerna vid hjärtspetsen. Det sprids signalen cell-till-cell via gap junctions. Kamrarna kontraherar nerifrån och upp. Detta pressar blodet effektivt upp mot de stora artärerna (Aorta och Truncus pulmonalis) som avgår från hjärtats bas
+> 	$$\text{Sinusknutan} \xrightarrow{\text{Gap junctions}} \text{Förmaksmuskulatur} \xrightarrow{} \text{AV-knutan (Fördröjning)}$$$$\downarrow$$$$\text{His bunt (Genom Anulus Fibrosus)} \xrightarrow{} \text{Skänklarna} \xrightarrow{} \text{Purkinjefibrer (Hjärtspetsen)}$$$$\downarrow$$$$\text{Kammarmuskulatur (Kontraktion nerifrån och upp)}$$
 
 
 
