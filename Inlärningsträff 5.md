@@ -63,6 +63,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 6: Hjärtats minutvolym är ett mått på hur mycket blod, som lämnar respektive kammare varje minut. Vad bestämmer storleken på hjärtats minutvolym?
 
 > [!NOTE] Svar 6
+> Hjärtats minutvolym regleras genom $$Minutvolym = Slagvolym \times Hjärtfrekvens$$
+> 1. Hjärtfrekvens$$
 
 ---
 
