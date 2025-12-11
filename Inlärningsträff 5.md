@@ -165,13 +165,22 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 
 > [!NOTE] Svar 15
 > Minutvolym påverkas av faktorer som styr hjärtfrekvens och slagvolym,eftersom
-> Minutvolym = HF $\times$ SV.
+
+$$
+\text{Minutvolym} = \text{HF} \times \text{SV}
+$$
+
+> [!NOTE] Svar 15
+> Hjärtfrekvenven styrs av balansen mellan sympatiska (ökar) och parasympatiska (minskar) nervesystemet. Slagvolym påverkas av det venösa återflödet (Som Frank-Starlings lah) samt av sympatikusstimulering.
+
+
 
 ---
 
 ### Fråga 16: Hur kan storleken på det venösa återflödet från systemkretsloppet ökas?
 
 > [!NOTE] Svar 16
+> 
 
 ---
 
