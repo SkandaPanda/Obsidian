@@ -80,7 +80,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 2. Slagvolym är skillnaden mellan den blod volymsom finns i kammaren innan kontraktion(EDV) och det som finns kvar fter (ESV).
 > 	   1. Preload(Frank-Starlings) är det tryck som skapas av blodet som fyller kamerna under diastole. Enligt Frank leder en större fyllnad av kammaren till att hjärtmuskelcellerna tänjs ut,När sakromerr i muskelcellerna sträcks ut ökar deras kontraktion vilket gör att hjärya pumpar ut dem ökade blodmängden. Det venösa återflödet ökar.
 > 	   2. Kontraktillitet (Inotrop effekt).Dessa avser hjärtmuskels förmåga att kontrahera vid en given muskelängd. Mekanism ökar inflöde av Ca2+ till cellens cytosol.
-> 3. 
+> 3. Afterload; det är det tryckmotsånd som vänster kammare måste överwinna för att pressa ut blodet i aortan-Vid ett högt afterload blir det svårare för hjärtat att pumpa ut blod, resuls i minskad slagvolym-
+
 
 
 
