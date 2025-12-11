@@ -1,19 +1,20 @@
 ### Fråga 1A: Hur många vävnadskapillärer passerar blodet normalt under passagen genom respektive kretslopp?
 
 > [!NOTE] Svar 1A
-> 
+> en kapillärbädd
 
 ---
 
 ### Fråga 1B: Vad är fördelen med att blodet generellt bara passerar en kapillär under passagen genom systemkretsloppet?
 
-> [!NOTE] Svar 1B
+> [!NOTE] Svar 1B Paralell koppling garenterar att alla organer får syrerikt blod samtidigt.
 
 ---
 
 ### Fråga 1C: Vad kännetecknar ett portasystem?
 
 > [!NOTE] Svar 1C
+> Ett system där två kapillärbäddar är kopplad i serie efter varandra utan att blodet passerar hjärtat emellan. ( Hjärta->Artär->Kapillär 1-> Kapillär 2-> Portakärl-> kapillär 2->Ven->Hjärta)
 
 ---
 
