@@ -83,12 +83,6 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 3. Afterload; det är det tryckmotsånd som vänster kammare måste överwinna för att pressa ut blodet i aortan-Vid ett högt afterload blir det svårare för hjärtat att pumpa ut blod, resuls i minskad slagvolym-
 
 
-
-
-
-
-
-
 ---
 
 ### Fråga 7: Hjärtmuskulaturen har förmågan att spontant slå med en frekvens om cirka 100 slag per minut. Beskriv hur detta fenomen uppstår, både med avseende på hur hjärtslaget initieras (påbörjas) i sinusknutan, samt hur det fortleds i övriga delar av hjärtat.
