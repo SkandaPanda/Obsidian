@@ -4,6 +4,7 @@ A) Platsen för det motoriska minnet: B) Storhjärnan (två olika namn eftersök
 
 > [!NOTE] Svar 1
 
+
 ---
 
 ### Fråga 2: Nervceller kan grupperas på olika sätt, t.ex. efter utseende. Ett annat sätt att gruppera nervceller är efter vilken funktion de har. Här talar man om tre olika typer, sensorisk nervcell, interneuron och motorisk nervcell.
