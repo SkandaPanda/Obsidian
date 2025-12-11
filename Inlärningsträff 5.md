@@ -137,9 +137,17 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 12: Beskriv hur vätskeflödet mellan en vävnadskapillär och dess omgivning förändras om mängden plasmaproteiner (proteinerna i blodets vävnadsvätska) skulle minska?
 
 > [!NOTE] Svar 12
-> Börjar med Starlings hypothesis som beskiver de krafter som styr vätskerörelse över kapillärvägen.
-> 1. Hydrostatiskt tryck: Det är det fys
->
+> Börjar med Starlings hypothesis som beskiver de krafter som styr vätskerörelse över kapillärvägen. Det är det fysika trycket som vätska mellan blodet i kapillären och vävnadsvätska som omger cellerna strys av balansen mellan 2 typer
+>  1. Hydrostatiskt tyrck- det fysika trycket som vätskan utöver mot väggarna.
+> 	Kapillärt hydrostatiskt tryck ($P_c$): Blodtrycket inne i kapillären. Detta tryck vill pressa vätska UT ur kapillären.Interstitiellt hydrostatiskt tryck ($P_{if}$): Trycket i vävnaden utanför. Detta är ofta nära noll eller svagt negativt, men om det stiger vill det pressa vätska IN i kapillären.
+> 2. Kolloidosmotiskt tryck. 
+
+
+
+
+
+
+
 
 ---
 
