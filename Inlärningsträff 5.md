@@ -200,9 +200,23 @@ $$
 
 ---
 
-### Fråga 19: Hos en person, som reser sig hastigt, kan det svartna för ögonen. Detta är ett resultat av ett otillräckligt blodflöde till hjärnan, vilket orsakas av ett för ett ögonblick för lågt arteriellt blodtryck. Beskriv den mekanism som återställer blodtrycket och därmed återställer cirkulationsfunktionen. Inkludera både mekanismen, som känner igen det sänkta blodtrycket, och de olika medföljande effekterna, vilka leder till den faktiska ökningen av blodtrycket.
+### Fråga 19: Hos en person, som reser sig hastigt, kan det svartna för ögonen. Detta är ett resultat av ett otillräckligt blodflöde till hjärnan, vilket orsakas av ett för ett ögonblick för lågt arteriellt blodtryck. Beskriv den mekanism som återställer blodtrycket och därmed återställer cirkulationsfunktionen. Inkludera både mekanismen, som känner igen det sänkta blodtrycket, och de olika medföljande effekterna, vilka leder till den faktiska ökningen av blodtrycket. [[english]]
 
-> [!NOTE] Svar 19
+När en person reser sig hastigt påverkas cirkulationen av tyngdkraften, vilket gör att blod ansamlas i benen och det venösa återflödet till hjärtat minskar. Detta leder momentant till en minskad slagvolym och därmed ett sänkt arteriellt blodtryck, vilket kan orsaka syrebrist i hjärnan (man blir yr). Kroppen motverkar detta omedelbart genom en mycket snabb regleringsmekanism som kallas baroreceptorreflexen. Denna reflex återställer blodtrycket genom ett samspel mellan sensorer, hjärnan och det autonoma nervsystemet.
+
+Identifiering av det sänkta blodtrycket Regleringen inleds med att kroppens trycksensorer, så kallade baroreceptorer, registrerar förändringen. Dessa receptorer är sträckkänsliga nervändar som är strategiskt placerade i kärlväggarna på två huvudplatser: i aortabågen (arcus aortae) och i halsartärens delning (sinus caroticus). Baroreceptorerna skickar kontinuerligt signaler (aktionspotentialer) till hjärnan. När blodtrycket sjunker, minskar sträckningen i kärlväggarna, vilket leder till att baroreceptorerna fyrar av aktionspotentialer med en lägre frekvens.
+
+Bearbetning i nervsystemet Den minskade signalfrekvensen tolkas av cirkulationscentrum (det vasomotoriska centrat) som är beläget i förlängda märgen (medulla oblongata). Cirkulationscentrum svarar på det låga blodtrycket genom att förändra balansen i det autonoma nervsystemet:
+1.Aktiviteten i det parasympatiska nervsystemet minskar (inaktiveras).
+2.Aktiviteten i det sympatiska nervsystemet ökar kraftigt.
+
+Effektorerna som återställer blodtrycket Det ökade sympatiska påslaget (och det minskade parasympatiska) utlöser en rad fysiologiska reaktioner i hjärtat och blodkärlen som tillsammans höjer blodtrycket igen:
+
+Ökad hjärtaktivitet (Ökad minutvolym): Sympatikusnerverna stimulerar sinusknutan att öka impulsfrekvensen, vilket leder till en ökad hjärtfrekvens. Samtidigt stimuleras hjärtmuskelcellerna att kontrahera kraftigare, vilket ger en ökad kontraktionskraft och därmed en större slagvolym. Tillsammans leder detta till att hjärtats minutvolym (mängden blod som pumpas ut per minut) ökar, vilket direkt höjer blodtrycket.
+
+Sammandragning av arterioler (Ökat motstånd): Det sympatiska påslaget får den glatta muskulaturen i kroppens arterioler att dra ihop sig (vasokonstriktion). Detta ökar det totala perifera motståndet i kärlsystemet. Eftersom blodtrycket är beroende av hur svårt det är för blodet att lämna artärerna, leder ett ökat motstånd till att trycket i artärerna stiger.
+
+Sammandragning av vener (Ökat återflöde): Slutligen stimulerar sympatikus även venväggarna att kontrahera (venokonstriktion). Detta pressar "magasinerat" blod från venerna tillbaka mot hjärtat, vilket ger ett ökat venöst återflöde. Det ökade återflödet fyller hjärtat bättre, vilket enligt Frank-Starling-mekanismen ytterligare bidrar till att öka slagvolymen.
 
 ---
 
