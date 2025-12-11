@@ -138,7 +138,7 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 
 > [!NOTE] Svar 12
 > Börjar med Starlings hypothesis som beskiver de krafter som styr vätskerörelse över kapillärvägen.
-> 1. 
+> 1. Hydrostatiskt tryck: Det är det fys
 >
 
 ---
