@@ -54,7 +54,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 5: Hjärtcykeln består av två faser, diastole och systole. Beskriv vad som sker under respektive fas.
 
 > [!NOTE] Svar 5
-> Under diastole (vilo) slappnar kammarmuskulaturen av. Tycket i kammarena sjunker så att det blir lägre än i förmaken, vilket gör att [[AV-klaffarna]]
+> Under diastole (vilo) slappnar kammarmuskulaturen av. Tycket i kammarena sjunker så att det blir lägre än i förmaken, vilket gör att [[AV-klaffarna]]öppnnas och blod strömmar in och fyller kamerna. I slutet av diastole sker en förmakskontraktion som pressar det sista blodet.
+> Under sys
 
 
 ---
