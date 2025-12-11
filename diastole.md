@@ -1,0 +1,1 @@
+Diastole is the heart's relaxation phase during the cardiac cycle, when the heart muscle relaxes and chambers (atria and ventricles) fill with blood from the body and lungs, preparing for the next beat. It's the opposite of systole (contraction) and is crucial for refilling the heart, resulting in lower blood pressure (diastolic pressure
