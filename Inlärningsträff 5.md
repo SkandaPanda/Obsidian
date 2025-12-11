@@ -157,13 +157,15 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 14: Vad bestämmer storleken på det arteriella blodtrycket?
 
 > [!NOTE] Svar 14
-> Storlek bestäms av 2 fakt
+> Storlek bestäms av 2 faktorer; hjärtats minutvolym och totala perifera resistansen(det motstånd blodet i kärlen). Resistansen regleras främst genom kontraktionsgrader i kroppens arterioler. Om minutvolymökar eller om arterioler drar ihop sig, stiger blodtryck.
 
 ---
 
 ### Fråga 15: Hjärtats minutvolym är ett mått på hur mycket blod som lämnar vardera hjärthalva varje minut. Vad påverkar storleken på hjärtats minutvolym?
 
 > [!NOTE] Svar 15
+> Minutvolym påverkas av faktorer som styr hjärtfrekvens och slagvolym,eftersom
+> Minutvolym = HF $\times$ SV.
 
 ---
 
