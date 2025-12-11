@@ -114,6 +114,7 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 9: Vid ökat blodinflöde till hjärtats kamrar, så kommer kammarmuskulaturen automatiskt att öka sin kontraktionsförmåga och därmed säkerställa att den extra mängd blod, som flödar in även pumpas vidare. Detta fenomen brukar benämnas som Frank-Starlings hjärtlag. Förklara hur denna självreglering uppstår.
 
 > [!NOTE] Svar 9
+> Frank-Starlings hjärtlag innebär att hjärta automatiskt pumpar ut den mängd blod som kommer in. När det venösa återflödet ökar, fylls kammare mer- vilket leder till att hjärmuskelväggen tänja ut. Denna uttänjning förlämgar muskelcellerna sakromerr. I hjärt
 
 ---
 
