@@ -180,7 +180,7 @@ $$
 ### Fråga 16: Hur kan storleken på det venösa återflödet från systemkretsloppet ökas?
 
 > [!NOTE] Svar 16
-> 
+> Det kan ökas gemom att det är en skelettmuskelpumpen, den respiratoriska pumpen
 
 ---
 
