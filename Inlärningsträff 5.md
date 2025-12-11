@@ -88,10 +88,10 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 7: Hjärtmuskulaturen har förmågan att spontant slå med en frekvens om cirka 100 slag per minut. Beskriv hur detta fenomen uppstår, både med avseende på hur hjärtslaget initieras (påbörjas) i sinusknutan, samt hur det fortleds i övriga delar av hjärtat.
 
 > [!NOTE] Svar 7
-> 1. Initiering, pacemaker-potential i sinusknutan som består av speci
-
-
-
+> 1. Initiering, pacemaker-potential i sinusknutan som består av specialiserade autorytmiska hjärtmuskelcellerna. Dessa har förmåga att skapaaktionpotential utan nervstimli.
+> 	   A) Spontant depolariseras.
+> 	   cellmembranet i sinusknutan är inte stabil vid vila. De innehåller Natrium joner, inflöde av postiva laddningar gör att membranpotential långsamt stiger från -60mV till -40mV, det kallas pacemaker-potential
+> 	   B) aktionpotential (depolarisering
 ---
 
 ### Fråga 8: Beskriv hur det autonoma nervsystemet reglerar hjärtfrekvensen och hur detta sker på nivån av de individuella autorytmiska hjärtmuskelcellerna i sinusknutan.
