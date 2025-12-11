@@ -20,7 +20,7 @@
 
 ### Fråga 1D: Var i kroppen hittar man portasystem?
 
-> [!NOTE] Svar 1D
+> [!NOTE] Svar 1D Finns i tarm och lever, i njurer samt mellan hypotalamus och hyposen
 
 ---
 
@@ -29,6 +29,10 @@
 Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur och löses därmed med fördel med kunskapen från föreläsningen och inte genom att leta på specifika cancertyper på Wikipedia etc.! En mycket bra idé kan vara att rita upp cirkulationssystemets generella uppbyggnad innan man försöker lösa frågan.
 
 > [!NOTE] Svar 2
+> A) Brösttumör: Celler som lämnar tumören går via venerna till höger hjärta och pumpas in i lungkrettsloppet. De kan fastna i lungornas kapillär
+> B) Blod från tarmen passerar först i de hepatitiska portasystem via portven(v.porate heptitis). Cancer celler kan hammna i levern
+> C) Celler som lämnar lung, går via lungven 
+
 
 ---
 
