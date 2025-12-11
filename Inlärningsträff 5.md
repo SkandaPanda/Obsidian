@@ -64,7 +64,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 
 > [!NOTE] Svar 6
 > Hjärtats minutvolym regleras genom $$Minutvolym = Slagvolym \times Hjärtfrekvens$$
-> 1. Hjärtfrekvens$$
+> 1. Hjärtfrekvens utgörs av antalet hjärt inslag per minut och syrs primärt av sinusknutan, vars celler spontant depolariseras och skapar aktionpotential, (Pacemaker-potential). ~100 slag/min, och moduleras av nervsystemet.
+> 	1. Sympatiska nervsystemet (ökar frekvens) via signalsubstancerna adrenalin och noraadrenalin som binder till Beta1-receptor i sinusknutan.
 
 ---
 
