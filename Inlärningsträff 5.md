@@ -119,7 +119,10 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 10: Beskriv blodets väg från vänster förmak tills att det når artären, som går på någon av knäledernas baksida. Använd det latinska namnet på aktuella strukturer som passeras, om dessa är med på kursens anatomilista.
 
 > [!NOTE] Svar 10
-> Vänster förmak (Atium suínister) ->genom bikuspidalklaffen(Valva bicus)
+> Vänster förmak (Atium suínister) ->genom bikuspidalklaffen(Valva bicuspidalis)->ner till vänster kammare(Ventriculus sinister)->Passage genom Aortaklaffen(Valva aortae) ut i Aorta-> passerar genom aortans olika delar
+> Aorta ascendens( uppåtgående delen)
+> Arcus aortae
+> Aorta descendens (nedanstående) som övergåt i Aorta abdominalis när der passerar ner i 
 
 ---
 
