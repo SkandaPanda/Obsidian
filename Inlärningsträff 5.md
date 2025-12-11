@@ -94,7 +94,9 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 	   B) aktionpotential (depolarisering), När membranpotential når tröskelvärde öppnas ca2+ kanaler, det skapar den uppåtgående fasen av aktionpotential.
 > 	   C) Repolarisering: stängs kalciumkanalerna och K+ flöder ut ur cellen, återstår -60mV
 > 2. Fortledning
-> 	   A) Förmakskontraktion (atria), spidning i förk
+> 	   A) Förmakskontraktion (atria), spidning i förmak: Från sinusknutan sprids till muskelcellerna i höger och vänster förmal via gap junctions. Kontraktion sker uppifrån och ned.
+> 	   B) Föredröjning i AV-knutan.; Signal  når AV-knutan som ligger i botten av högre förmak. Sker ett kritiskt föredröjning av signal.
+> 	   C) Passage genom Anulus Fibrosus: Signal kan inte spridas direkt från förmak till kammare eftersom de sj
 
 
 
