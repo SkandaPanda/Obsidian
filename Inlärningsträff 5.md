@@ -122,7 +122,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > Vänster förmak (Atium suínister) ->genom bikuspidalklaffen(Valva bicuspidalis)->ner till vänster kammare(Ventriculus sinister)->Passage genom Aortaklaffen(Valva aortae) ut i Aorta-> passerar genom aortans olika delar
 > Aorta ascendens( uppåtgående delen)
 > Arcus aortae
-> Aorta descendens (nedanstående) som övergåt i Aorta abdominalis när der passerar ner i 
+> Aorta descendens (nedanstående) som övergåt i Aorta abdominalis när der passerar ner i buken 
+> I nedre delen av buken delar sig aorta och blot flöder till ben via (A. illica communis)->A. iliaca externa->Kärlet passerar ljumsken, byter namn A. femoralis->A.poplitea
 
 ---
 
