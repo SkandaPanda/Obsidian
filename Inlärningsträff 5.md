@@ -140,7 +140,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > Börjar med Starlings hypothesis som beskiver de krafter som styr vätskerörelse över kapillärvägen. Det är det fysika trycket som vätska mellan blodet i kapillären och vävnadsvätska som omger cellerna strys av balansen mellan 2 typer
 >  1. Hydrostatiskt tyrck- det fysika trycket som vätskan utöver mot väggarna.
 > 	Kapillärt hydrostatiskt tryck ($P_c$): Blodtrycket inne i kapillären. Detta tryck vill pressa vätska UT ur kapillären.Interstitiellt hydrostatiskt tryck ($P_{if}$): Trycket i vävnaden utanför. Detta är ofta nära noll eller svagt negativt, men om det stiger vill det pressa vätska IN i kapillären.
-> 2. Kolloidosmotiskt tryck. 
+> 	1. Kolloidosmotiskt tryck.: Skapas av koncentrationsskillnaden av lösta partiklar strävar efter att dra vätska tillbaka i kapillär(reabsobtion(osmos)). Skillnaden i osmotisk tryck upprätthåller främst av plasmaproteiner som på grund av sin storlek stannar kvar i blodbanan ioch skapar Kolloidosmotiskt tryck
+> Om mängen plasmaproteiner minskar tex vid svält sjunker det kolloidosmotiskt trycket i blodet. Eftersom de osmotisk trycket är den kraft som ansvarar f
 
 
 
