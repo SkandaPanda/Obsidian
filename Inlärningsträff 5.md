@@ -92,7 +92,10 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 	   A) Spontant depolariseras.
 > 	   cellmembranet i sinusknutan är inte stabil vid vila. De innehåller Natrium joner, inflöde av postiva laddningar gör att membranpotential långsamt stiger från -60mV till -40mV, det kallas pacemaker-potential
 > 	   B) aktionpotential (depolarisering), När membranpotential når tröskelvärde öppnas ca2+ kanaler, det skapar den uppåtgående fasen av aktionpotential.
-> 	   C) Repolarisering: stängs
+> 	   C) Repolarisering: stängs kalciumkanalerna och K+ flöder ut ur cellen, återstår -60mV
+> 2. Fortledning
+> 	   A) Förmakskontraktion (atria), spidning i förk
+
 
 
 ---
