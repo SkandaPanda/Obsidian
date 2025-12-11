@@ -68,7 +68,7 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 	1. Sympatiska nervsystemet (ökar frekvens) via signalsubstancerna adrenalin och noraadrenalin som binder till Beta1-receptor i [[sinusknutan]]. Detta aktiverar ett stilmulerance G-protein $(G)_2$ som ökar produktion av cAMP och aktiverar PKA. Resultat blir att Na+ kanaler öppnas vilket gör att tröskelvärde för en aktionpotential nås snabbare, ger ett positivt kronotrop ( ökad puls)
 > 	2. Parasympatiska nervsystemet(sänker frekvens) via acetlykolin som binder till M2-receptor.Detta hämmar bildande av cAMP och öppnar K+ kanaler.
 > 2. Slagvolym är skillnaden mellan den blod volymsom finns i kammaren innan kontraktion(EDV) och det som finns kvar fter (ESV).
-> 	   1. Preload(Frank-Starlings) är det tryck som skapas av blodet som fyller kamerna under diastole. Enligt Frank leder en större fyllnad av kammaren
+> 	   1. Preload(Frank-Starlings) är det tryck som skapas av blodet som fyller kamerna under diastole. Enligt Frank leder en större fyllnad av kammaren till att hjärtmuskelcellerna tänjs ut,
 
 ---
 
