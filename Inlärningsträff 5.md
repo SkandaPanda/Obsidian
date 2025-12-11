@@ -70,6 +70,28 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 2. Slagvolym är skillnaden mellan den blod volymsom finns i kammaren innan kontraktion(EDV) och det som finns kvar fter (ESV).
 > 	   1. Preload(Frank-Starlings) är det tryck som skapas av blodet som fyller kamerna under diastole. Enligt Frank leder en större fyllnad av kammaren till att hjärtmuskelcellerna tänjs ut,
 
+
+
+> [!NOTE] Svar 6
+> Hjärtats minutvolym regleras genom $$Minutvolym = Slagvolym \times Hjärtfrekvens$$
+> 1. ## **. Hjärtfrekvens (HR)**
+
+Hjärtfrekvensen bestäms av **sinusknutan**, vars pacemakerceller spontant depolariseras (~100 slag/min). Den moduleras av det autonoma nervsystemet:
+
+### **Sympatiska nervsystemet – ökar HR (positiv kronotrop effekt)**
+
+Adrenalin/noradrenalin binder till **β₁-receptorer** i sinusknutan → aktiverar G-protein → ökat cAMP → aktivering av PKA → fler Na⁺-kanaler öppnas → tröskelvärdet nås snabbare → snabbare depolarisation.
+
+### **Parasympatiska nervsystemet – sänker HR**
+
+Acetylkolin binder till **M2-receptorer** → minskat cAMP + öppning av K⁺-kanaler → hyperpolarisering → långsammare depolarisation.
+
+
+
+
+
+
+
 ---
 
 ### Fråga 7: Hjärtmuskulaturen har förmågan att spontant slå med en frekvens om cirka 100 slag per minut. Beskriv hur detta fenomen uppstår, både med avseende på hur hjärtslaget initieras (påbörjas) i sinusknutan, samt hur det fortleds i övriga delar av hjärtat.
