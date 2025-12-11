@@ -96,7 +96,8 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 2. Fortledning
 > 	   A) Förmakskontraktion (atria), spidning i förmak: Från sinusknutan sprids till muskelcellerna i höger och vänster förmal via gap junctions. Kontraktion sker uppifrån och ned.
 > 	   B) Föredröjning i AV-knutan.; Signal  når AV-knutan som ligger i botten av högre förmak. Sker ett kritiskt föredröjning av signal.
-> 	   C) Passage genom Anulus Fibrosus: Signal kan inte spridas direkt från förmak till kammare eftersom de sj
+> 	   C) Passage genom(His bunt )Anulus Fibrosus: Signal kan inte spridas direkt från förmak till kammare eftersom de skijs åt av anulus fibrosus. (Hiska bunten): Signalen måste passerar genom his buntl. 
+> 	   D) Kammarkontration: ventriculus. Efter passage genom his bunt sprids signalen snabbt för att koordinera kontraktion.
 
 
 
