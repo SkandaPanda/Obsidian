@@ -46,13 +46,16 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 4: Förklara vad som styr öppenhetsgraden hos hjärtats olika klaffar.
 
 > [!NOTE] Svar 4
-> Hjärtat klaffar styrs av tyckskillnaden me
+> Hjärtat klaffar styrs av tyckskillnaden mellan de rum de separerar. Det finns ingen aktiv muskelkontraktion som öppnar dem. En klaff öppnnas passitvt när tycket på inflödessidan är högre än tycket på utflödessidan.
+
 
 ---
 
 ### Fråga 5: Hjärtcykeln består av två faser, diastole och systole. Beskriv vad som sker under respektive fas.
 
 > [!NOTE] Svar 5
+> Under diastole (vilo) slappnar kammarmuskulaturen av. Tycket i kammarena sjunker så att det blir lägre än i förmaken, vilket gör att [[AV-klaffarna]]
+
 
 ---
 

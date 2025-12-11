@@ -1,0 +1,1 @@
+The atrioventricular node (AV node, or Aschoff-Tawara node) is part of the electrical conduction system of the heart. It electrically connects the atria to the ventricles to coordinate beating.
