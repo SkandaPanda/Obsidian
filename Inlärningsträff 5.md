@@ -39,13 +39,14 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 ### Fråga 3: Beskriv hur hypotalamus kan reglera utsöndringen av hormoner ifrån hypofysens framlob
 
 > [!NOTE] Svar 3
-> Hypotalamus reglerar ursöndring av hormoner från hypofysens framlob genom ett portasystem. Neurosekretoriska celler i hypotalamus insöndrar neuro hormoner(GH-RH) i kapillärnätverk
+> Hypotalamus reglerar ursöndring av hormoner från hypofysens framlob genom ett portasystem. Neurosekretoriska celler i hypotalamus insöndrar neuro hormoner(GH-RH) i kapillärnätverk i hypofysensstjälken. Dessa hromoner transporteras med blodet direkt till ett andra kapillärnätverk i hypofysens framlob utan att spädas ut i systemet.
 
 ---
 
 ### Fråga 4: Förklara vad som styr öppenhetsgraden hos hjärtats olika klaffar.
 
 > [!NOTE] Svar 4
+> Hjärtat klaffar styrs av tyckskillnaden me
 
 ---
 
