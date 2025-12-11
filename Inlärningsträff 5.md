@@ -91,7 +91,10 @@ Observera att denna fråga ämnar att belysa cirkulationssystemets arkitektur oc
 > 1. Initiering, pacemaker-potential i sinusknutan som består av specialiserade autorytmiska hjärtmuskelcellerna. Dessa har förmåga att skapaaktionpotential utan nervstimli.
 > 	   A) Spontant depolariseras.
 > 	   cellmembranet i sinusknutan är inte stabil vid vila. De innehåller Natrium joner, inflöde av postiva laddningar gör att membranpotential långsamt stiger från -60mV till -40mV, det kallas pacemaker-potential
-> 	   B) aktionpotential (depolarisering
+> 	   B) aktionpotential (depolarisering), När membranpotential når tröskelvärde öppnas ca2+ kanaler, det skapar den uppåtgående fasen av aktionpotential.
+> 	   C) Repolarisering: stängs
+
+
 ---
 
 ### Fråga 8: Beskriv hur det autonoma nervsystemet reglerar hjärtfrekvensen och hur detta sker på nivån av de individuella autorytmiska hjärtmuskelcellerna i sinusknutan.
