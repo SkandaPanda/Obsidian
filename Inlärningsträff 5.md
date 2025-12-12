@@ -7,7 +7,8 @@
 
 ### Fråga 1B: Vad är fördelen med att blodet generellt bara passerar en kapillär under passagen genom systemkretsloppet?
 
-> [!NOTE] Svar 1B Paralell koppling garenterar att alla organer får syrerikt blod samtidigt.
+> [!NOTE] Svar 1B
+>  Paralell koppling garenterar att alla organer får syrerikt blod samtidigt.
 
 ---
 
