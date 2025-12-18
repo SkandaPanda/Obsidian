@@ -83,13 +83,14 @@
 ### Fråga 10: Beskriv steg för steg, hur reabsorptionen av natriumjoner sker från tubuluslumen i proximal tubulus, genom epitelcellerna, till de peritubulära kapillärerna.
 
 > [!NOTE] Svar 10
-> Reabsorptionen drivs av Na+/K+ pumpar som sitter i epitelcell basolaterala membran(mot blodsidan). Dess pumpar använder ATP för aktivt transport ut natriumjoner
+> Reabsorptionen drivs av Na+/K+ pumpar som sitter i epitelcell basolaterala membran(mot blodsidan). Dess pumpar använder ATP för aktivt transport ut natriumjoner från cellen till vävnadsvätskan som skapar ett låg koncentration av natrium inne i cellen. Denns koncentrationsgradient gör att natriumjoner från tubuluslumen(högre koncentration) diffunderar in i cellen genom transportproteiner i det apikala memebranet. Från vävnadsvätskan diffunderar natriumjoner sedan in i de peritubulära kapillärerna, vatten följer passivt.
 
 ---
 
 ### Fråga 11: Vid sjukdomen Diabetes mellitus så kommer plasmanivåerna av glukos vara kraftigt förhöjda. Vilken effekt kan detta ha på reabsorptionen av glukos i njurarnas tubulussystem, och vad får det i sin tur för effekt på volymen av urin, som lämnar kroppen?
 
 > [!NOTE] Svar 11
+> 
 
 ---
 
