@@ -158,13 +158,14 @@
 ### Fråga 17: Fantomsmärta är en form av så kallad neurogen smärta. Var uppstår aktionspotentialen som utlöser denna typ av smärta och varför registrerar hjärnan det som att smärtan kommer från en del av kroppen som inte längre existerar?
 
 > [!NOTE] Svar 17
-> Vid fantomsmärta uppstår aktionspotentialen vid änden av den kapade nevstumpen där nervtrådarna kan vara skadade eller bilda [[nystan(neurom)]]  som blir överkänsliga och spontant generar nervimpulsen. Hjärnan tolkar dessa signaler enligt principen (labeled line), vilket innebär att varje nervbana är kopplad till ett specifikt område i hjärnbarken ([[Somatomotoriska]] cortex). Även s
+> Vid fantomsmärta uppstår aktionspotentialen vid änden av den kapade nevstumpen där nervtrådarna kan vara skadade eller bilda [[nystan(neurom)]]  som blir överkänsliga och spontant generar nervimpulsen. Hjärnan tolkar dessa signaler enligt principen (labeled line), vilket innebär att varje nervbana är kopplad till ett specifikt område i hjärnbarken ([[Somatomotoriska]] cortex). Hjärnan projicerar därför smärtupplevelsen till det område där kroppsdelen tidigare satt, eftersom den "tror" att signalen fortfarande kommer därifrån
 
 ---
 
 ### Fråga 18: Överförd smärta (referred pain) karaktäriseras av att smärta från ett inre organ tolkas som smärta från ett specifikt område i huden. Ge en förklaring till detta fenomen.
 
 > [!NOTE] Svar 18
+> Smärtfibrer från ett specifikt område i huden bildar ofta synapser med samma nervceller i ryggmärgen som smärtfibrer från ett visst inre organ. Då tidigare erfarenheter pekar på att smärtan borde komma från huden tolkar hjärnan att aktiveringen av nervcellen i ryggmärgen beror på påverkan av smärtfibern i huden, även fast den kom från motsvarande i hjärtat 
 
 ---
 
