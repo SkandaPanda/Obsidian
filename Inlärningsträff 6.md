@@ -172,9 +172,11 @@
 ### Fråga 19: Hur kan ljudvågor med olika frekvenser skapa nervimpulser i örat, vilka sedan uppfattas som ljud av olika frekvenser i hjärnan?
 
 > [!NOTE] Svar 19
+> 
 
 ---
 
 ### Fråga 20: Beskriv ljusets väg igenom ögats olika delar och funktionen hos respektive del.
 
 > [!NOTE] Svar 20
+> Ljuset passerar först hornhinnan (cornea), som står för den största delen av ljusbrytningen. Därefter passerar det pupillen i regnbågshinnan (iris), som reglerar hur mycket ljus som släpps in i ögat. Ljuset fortsätter genom linsen, som kan ändra form (ackommodera) för att finjustera skärpan beroende på avståndet till objektet. Slutligen passerar ljuset genom glaskroppen och träffar näthinnan (retina) längst bak i ögat. I näthinnan finns fotoreceptorer (stavar och tappar) som omvandlar ljusenergin till elektriska nervimpulser genom fototransduktion. Dessa impulser skickas sedan via synnerven till hjärnan för tolkning
