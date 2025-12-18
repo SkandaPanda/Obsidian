@@ -104,7 +104,7 @@
 ### Fråga 13: Beskriv den kedja av händelser, som gör att förhöjd osmolaritet hos vävnadsvätskan i hypotalamus, resulterar i att volymen utsöndrad urin minskar.
 
 > [!NOTE] Svar 13
-> När osmolaritet i vävnadsvätskan ökar(indikerar vätskebrist), registrerars detta av osmoreceptor i hypotalamus som krymper. Detta signalerar till hypofysenes baklob att frisätta antiduretisk hormon (ADH) till blodet. ADH når njurarna och binder till receptorer på samlingsrören som leder till att fler vattenkanaler (aquaporiner) sätts i cellmembranet
+> När osmolaritet i vävnadsvätskan ökar(indikerar vätskebrist), registrerars detta av osmoreceptor i hypotalamus som krymper. Detta signalerar till hypofysenes baklob att frisätta antiduretisk hormon (ADH) till blodet. ADH når njurarna och binder till receptorer på samlingsrören som leder till att fler vattenkanaler (aquaporiner) sätts i cellmembranet. Detta gör samlingsrören genomsläppilga för vatten som strömmar ut ur urinet och tillbaka till den hypertona njurmärgen genom osmos
 
 ---
 
@@ -136,13 +136,14 @@
 
 > [!NOTE] Svar 14D
 > 
-> Urethra
+> Uretra
 
 ---
 
 ### Fråga 15: Vad är skillnaden på en primär sinnescell och en sekundär sinnescell?
 
 > [!NOTE] Svar 15
+> En primär sinnescell är en specialiserade nervcell som har ett eget x
 
 ---
 
