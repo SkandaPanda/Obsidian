@@ -173,7 +173,7 @@
 
 > [!NOTE] Svar 19
 > Ljudvågor sätter trumhinnan i vibration, vilken fortplantas via hörselbenskedjan (hammaren, städet och stigbygeln) till det ovala fönstret. Denna mekaniska rörelse skapar tryckvågor i hörselsnäckans vätska. Vätskerörelsen i den övre och nedre kanalen sätter i sin tur basilarmembranet i svängning, vilket utgör startpunkten för den sensoriska registreringen.
-> 
+> På basilarmembranets ovansida, i den mellersta kanalen finns sekundära sinnesceller (hårceller). På toppen av dessa sitter sinneshår()
 
 ---
 
