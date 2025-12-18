@@ -25,7 +25,7 @@
 ### Fråga 2: Vad är skillnaden mellan peristaltik och segmenteringsrörelser i tarmen?
 
 > [!NOTE] Svar 2
-> Peristaltik syftar att transportera tarmineehållet(kymus)
+> Peristaltik syftar att transportera tarmineehållet(kymus) framåt i riktning mot ändtermen. DEtta sker genom en stegvis kontraktion  och avsläppning av musklerna i tarmväggen. Segmenteringsrörelser syftar att blanda tarminnehållet och bryta ner det mekaniskt. Flyttas fram och tillbaka i tarmen genom lokala kontraktioner.
 
 ---
 
