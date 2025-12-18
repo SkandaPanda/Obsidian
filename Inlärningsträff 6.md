@@ -158,6 +158,7 @@
 ### Fråga 17: Fantomsmärta är en form av så kallad neurogen smärta. Var uppstår aktionspotentialen som utlöser denna typ av smärta och varför registrerar hjärnan det som att smärtan kommer från en del av kroppen som inte längre existerar?
 
 > [!NOTE] Svar 17
+> Vid fantomsmärta uppstår aktionspotentialen vid änden av den kapade nevstumpen där nervtrådarna kan vara skadade eller bilda [[nystan(neurom)]]  som blir överkänsliga och spontant generar nervimpulsen. Hjärnan tolkar dessa signaler enligt principen (labeled line), vilket innebär att varje nervbana är kopplad till ett specifikt område i hjärnbarken ([[Somatomotoriska]] cortex). Även s
 
 ---
 

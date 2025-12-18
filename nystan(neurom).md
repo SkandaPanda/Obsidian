@@ -1,0 +1,1 @@
+, it's also studied in neuroscience for its effects on axon regeneration and neuronal growth by modifying cell membranes, affecting ion flow and nitric oxide levels in nerve cells, acting as a tool to understand neuronal signaling. 
