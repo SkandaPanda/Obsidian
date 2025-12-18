@@ -62,13 +62,14 @@
 ### Fråga 7: Hormonet Kolecystokinin (CCK) utsöndras av epitelceller i duodenum, när halterna av framför allt fettsyror stiger i tarmens lumen. Beskriv hur CCK verkar för att nedbrytningen av fetter i duodenum ska bli så effektiv som möjligt.
 
 > [!NOTE] Svar 7
-> CCK utsöndras från epitelceller i duodenum när de registrerar närvaron av fettsyror
+> CCK utsöndras från epitelceller i duodenum när de registrerar närvaron av fettsyror och peptider i tarmlumen. CCK verkar sedan på 2 olika sätt för att optimera fettnedbrytningen; dels stimulerar gallblåsen att kontrahera som pressar ut galla i tunntarmen för att emulgera(blanda två vätskor som normalt inte vill blandas,) fetterna. Det dels också stimulerar det bukspottkörteln att frisätta enzymrikt bukspott(pancreatic juice) som innehåller lipas, enzymet som krävs för den kemiska spjälkningen av triglyceriderna.
 
 ---
 
 ### Fråga 8: Neutraliseringen av det sura maginnehållet som töms i duodenum är beroende på utsöndringen av basiskt bukspott. Bukspottet är basiskt då det innehåller vätekarbonatjoner ($HCO_3^-$). Vid behov kan utsöndringen av vätekarbonatjoner öka, till exempel när större mängder surt maginnehåll töms i duodenum. Beskriv hur detta regleras.
 
 > [!NOTE] Svar 8
+> 
 
 ---
 
