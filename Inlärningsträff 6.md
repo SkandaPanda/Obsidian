@@ -172,7 +172,8 @@
 ### Fråga 19: Hur kan ljudvågor med olika frekvenser skapa nervimpulser i örat, vilka sedan uppfattas som ljud av olika frekvenser i hjärnan?
 
 > [!NOTE] Svar 19
-> Ljudvågor får trumhinnan att vibera och överförs via benen i mellanörat(hammaren, städet och stigbygeln) till innerörats ovala fönster: Vibrationen i fönster förtsätter vätskan i hörsel
+> Ljudvågor sätter trumhinnan i vibration, vilken fortplantas via hörselbenskedjan (hammaren, städet och stigbygeln) till det ovala fönstret. Denna mekaniska rörelse skapar tryckvågor i hörselsnäckans vätska. Vätskerörelsen i den övre och nedre kanalen sätter i sin tur basilarmembranet i svängning, vilket utgör startpunkten för den sensoriska registreringen.
+> 
 
 ---
 
