@@ -90,13 +90,14 @@
 ### Fråga 11: Vid sjukdomen Diabetes mellitus så kommer plasmanivåerna av glukos vara kraftigt förhöjda. Vilken effekt kan detta ha på reabsorptionen av glukos i njurarnas tubulussystem, och vad får det i sin tur för effekt på volymen av urin, som lämnar kroppen?
 
 > [!NOTE] Svar 11
-> Normalt absorberas all glukos i proximala tubulus men transportproteiner (SGLT) har en max kapacitiet. I diabetes överstigen mängden filterad glukos denna kapacitiet som leder till att en del glukos blir kvar i tubuluslumen och hamnar i urien
+> Normalt absorberas all glukos i proximala tubulus men transportproteiner (SGLT) har en max kapacitiet. I diabetes överstigen mängden filterad glukos denna kapacitiet som leder till att en del glukos blir kvar i tubuluslumen och hamnar i urien, eftersom glukos är osmotisk aktivt drar det kvar vatten i tubulussystem och förhindrar att vatten reabsorperas till blodet.Detta resulterar i osmotisk diures,
 
 ---
 
 ### Fråga 12: Beskriv den kedja av händelser, som gör att ett lågt blodtryck i de afferenta arteriolerna i njuren, resulterar i en minskad utsöndring av urin i från kroppen.
 
 > [!NOTE] Svar 12
+> Vid lågt blodtryck i njurens afferenta arteriolerna frisättaer njuren enzymet Renin som startat en kaskadreaktion ( RAAS) där angiotensinogen omvandlas till angiotensin 1 som sedan omvandlas till
 
 ---
 
