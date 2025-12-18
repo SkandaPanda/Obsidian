@@ -97,7 +97,7 @@
 ### Fråga 12: Beskriv den kedja av händelser, som gör att ett lågt blodtryck i de afferenta arteriolerna i njuren, resulterar i en minskad utsöndring av urin i från kroppen.
 
 > [!NOTE] Svar 12
-> Vid lågt blodtryck i njurens afferenta arteriolerna frisättaer njuren enzymet Renin som startat en kaskadreaktion ( RAAS) där angiotensinogen omvandlas till angiotensin 1 som sedan omvandlas till -"- II med hjälp av enzymet ACE. Angiotensin II stimulerar binjurebarken(adrenal cortex) att frisätta hormonet aldosteron. Aldosteron verkar på njurens distala tubuli och samlingsrör
+> Vid lågt blodtryck i njurens afferenta arteriolerna frisättaer njuren enzymet Renin som startat en kaskadreaktion ( RAAS) där angiotensinogen omvandlas till angiotensin 1 som sedan omvandlas till -"- II med hjälp av enzymet ACE. Angiotensin II stimulerar binjurebarken(adrenal cortex) att frisätta hormonet aldosteron. Aldosteron verkar på njurens distala tubuli och samlingsrör genom att öka reabsorptionen av Na+ joner. Eftersom vatten följer med saltet via osmos, ökar återupptaget av vätska till blodet. Detta sparar vatten i kroppen, höjer Blodtryck och minde urin
 
 ---
 
