@@ -33,6 +33,7 @@
 
 > [!NOTE] Svar 3
 > Enzymet Pepsin (aktiverat från pepsinogen av lågt pH) påbörjar spjälkningen av proteiner till mindre peptider. Tunntarmen(Lumen): Bukspottkörteln utsöndrar inaktiva proteaser(tex trysinogen) som aktiveras i tunntarmen(till trypsin). Dessa klipper upp proteiner till kortare peptider
+> Tunntarmen (Membranfas): På tarmepitelets yta (mi)
 
 ---
 
