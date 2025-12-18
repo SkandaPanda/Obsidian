@@ -32,6 +32,7 @@
 ### Fråga 3: Beskriv hur proteiner enzymatiskt bryts ned i matspjälkningssystemet, och hur resulterande nedbrytningsprodukter tas upp av tarmepitelet.
 
 > [!NOTE] Svar 3
+> 
 
 ---
 
