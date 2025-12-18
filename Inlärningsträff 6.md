@@ -76,14 +76,14 @@
 ### Fråga 9: Njurarna är viktiga för att olika avfallsprodukter ska särskiljas från övriga delar av blodet för att sedan kunna utsöndras ur kroppen via urinet. Beskriv hur denna process sker. (Tips: rita upp nefronet först).
 
 > [!NOTE] Svar 9
-> Processen börjar med filtration i njurkroppen(glomerulus) där blodplasma filteras ut i Bowmans rum pga tyckskillnader som bildar primärurin. Denna vätska innehåller joner, vatten och små molekyler men saknar blodkroppar och stora proteiner. När primär urin passerar genom nefronets tubulussystem (proximala tubulus,)
-> 
+> Processen börjar med filtration i njurkroppen(glomerulus) där blodplasma filteras ut i Bowmans rum pga tyckskillnader som bildar primärurin. Denna vätska innehåller joner, vatten och små molekyler men saknar blodkroppar och stora proteiner. När primär urin passerar genom nefronets tubulussystem (proximala tubulus, Henles slynga och distala tubulus) sker en omfattande reabsorptionen av vatten, glukos, aminosyror och joner tillbaka till peritubulära kapillärerna. Sker en sekretion där ämnen transporteras från blodet in i tubulus. Det som står i slutet av samlingsrören är fardigt urinet som leds ut ur kroppen.> 
 
 ---
 
 ### Fråga 10: Beskriv steg för steg, hur reabsorptionen av natriumjoner sker från tubuluslumen i proximal tubulus, genom epitelcellerna, till de peritubulära kapillärerna.
 
 > [!NOTE] Svar 10
+> 
 
 ---
 
