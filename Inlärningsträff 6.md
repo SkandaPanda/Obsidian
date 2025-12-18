@@ -83,7 +83,7 @@
 ### Fråga 10: Beskriv steg för steg, hur reabsorptionen av natriumjoner sker från tubuluslumen i proximal tubulus, genom epitelcellerna, till de peritubulära kapillärerna.
 
 > [!NOTE] Svar 10
-> 
+> Reabsorptionen drivs av Na+/K+ pumpar som sitter i epitelcell basolaterala membran(mot blodsidan). Dess pumpar använder ATP för aktivt transport ut natriumjoner
 
 ---
 
