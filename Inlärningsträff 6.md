@@ -34,19 +34,21 @@
 > [!NOTE] Svar 3
 > Enzymet Pepsin (aktiverat från pepsinogen av lågt pH) påbörjar spjälkningen av proteiner till mindre peptider. Tunntarmen(Lumen): Bukspottkörteln utsöndrar inaktiva proteaser(tex trysinogen) som aktiveras i tunntarmen(till trypsin). Dessa klipper upp proteiner till kortare peptider
 > Tunntarmen (Membranfas): På tarmepitelets yta (mikrovilli) finns peptidaser som slutligen spjälker peptiderna till fria aminosyror.
-> De fria aminosyrorma tas upp i tarmpitelcellerna genom sekundär aktivt transport. Detta drivs av en Na+ gradient som skapas av Na+/K+ pumpen.
+> De fria aminosyrorma tas upp i tarmpitelcellerna genom sekundär aktivt transport. Detta drivs av en Na+ gradient som skapas av Na+/K+ pumpen.. Aminosyror följer med Na+ in i cellen, transporteras ut via diffusion
 
 ---
 
 ### Fråga 4: I magsäcken sker en del av spjälkningen av proteiner, med hjälp av enzymet Pepsin. Detta enzym produceras av så kallade Huvudceller; en speciell epitelcell i magsäcksslemhinnan. Närvaron av aktivt Pepsin i dessa celler under deras transport i den sekretoriska vägen, skulle innebära att man riskerar bryta ned olika cellulära proteiner. Hur skyddar Huvudcellerna sig från detta problem?
 
 > [!NOTE] Svar 4
+> Det Pepsin som produceras i Huvudcellerna tillverkas i en inaktiv form, som kallas Pepsinogen. Pepsinogen kommer ändra sin konformation vid det låga pH-värdet i magsäckens lumen. Den nya konformationen tillåter Pepsinogen-molekylen att klippa bort en del av sig själv och på det sättet omvandlas till det aktiva enzymet Pepsin
 
 ---
 
 ### Fråga 5: Beskriv hur kolhydraten stärkelse enzymatiskt bryts ned i matspjälkningssystemet, och hur resulterande nedbrytningsprodukter tas upp av tarmepitelet.
 
 > [!NOTE] Svar 5
+> Viss enzymatisk spjälkning av stärkelse sker i munhålan och magsäcken av enzymet amylas, vilket utsöndras från spottkörtlarna. Den huvudsakliga nedbrytningen av polysackariden stärkelse till oligosackarider och vidare till disackariden maltos sker i tunntarmens luminalfas och katalyseras av amylas utsöndrat från bukspottkörteln. Maltos bryts sedan ned till monosackariden glukos vid tunntarmens membranfas, med hjälp av enzymet Maltas som sitter fäst på tarmepitelets. Glukos tas sedan upp av enterocyterna via Na+-beroende sekundär aktiv transport. 
 
 ---
 
