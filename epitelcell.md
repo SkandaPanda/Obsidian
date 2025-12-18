@@ -1,0 +1,1 @@
+ form protective layers covering body surfaces (skin), lining internal cavities (digestive tract, lungs, blood vessels), and making up glands, acting as barriers and facilitating absorption, secretion (mucus, hormones), filtration, and transport

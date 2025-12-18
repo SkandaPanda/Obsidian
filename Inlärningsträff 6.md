@@ -143,7 +143,7 @@
 ### Fråga 15: Vad är skillnaden på en primär sinnescell och en sekundär sinnescell?
 
 > [!NOTE] Svar 15
-> En primär sinnescell är en specialiserade nervcell som har ett eget x
+> En primär sinnescell är en specialiserade nervcell som har ett eget axon. När den stimuleras uppstår en receptorpotential som direkt kan genera en aktionspotential i cellens axon för vidare transport till CNS. exempel luktsinnesceller. En sekundär sinnescell är en modiferad [[epitelcell]] som saknar eget axon. Vid stimulering förändras dess membranpotential vilket leder till att den frisätter transmittorsubstans. Denna substans aktiverar i suin tur en intilliggande sensorisk nervcell som förs signalen vidare.
 
 ---
 
