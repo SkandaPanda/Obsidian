@@ -69,13 +69,14 @@
 ### Fråga 8: Neutraliseringen av det sura maginnehållet som töms i duodenum är beroende på utsöndringen av basiskt bukspott. Bukspottet är basiskt då det innehåller vätekarbonatjoner ($HCO_3^-$). Vid behov kan utsöndringen av vätekarbonatjoner öka, till exempel när större mängder surt maginnehåll töms i duodenum. Beskriv hur detta regleras.
 
 > [!NOTE] Svar 8
-> 
+> När det sura kymus töms i duodenum reagerar specialiserade celler i tarmväggen på det lågt pH värde genom att frisätta hormonet sekretin till blodet. Sekretin transporteras till bukspottkörteln där det stimulerar urförsgångerna(pancreatic ducts) att producera och utsöndra en stor mängd HCO 3-. Baskiska joner når tunntarmen reagerar de med väterjoner i magsyran och neutraliseringen dom vilket höjer pH värder.
 
 ---
 
 ### Fråga 9: Njurarna är viktiga för att olika avfallsprodukter ska särskiljas från övriga delar av blodet för att sedan kunna utsöndras ur kroppen via urinet. Beskriv hur denna process sker. (Tips: rita upp nefronet först).
 
 > [!NOTE] Svar 9
+> 
 
 ---
 
