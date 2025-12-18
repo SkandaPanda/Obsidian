@@ -150,7 +150,7 @@
 ### Fråga 16: Lidokain är ett ämne som kan hämma spänningsstyrda $Na^+$-jonkanaler. Förklara varför det till exempel inte gör ont att bli stucken av en nål, om man innan har strukit på en kräm innehållande Lidokain (fokusera på bildandet och fortledningen av nervimpulser).
 
 > [!NOTE] Svar 16
-> Lidokain verkar genom att blockera spänningsstyrda Na+ kanaler på de sensoriska nervcellernas axon. Normalt när en smärtreceptor 
+> Lidokain verkar genom att blockera spänningsstyrda Na+ kanaler på de sensoriska nervcellernas axon. Normalt när en smärtreceptor stimuleraras skapas en receptorpotential som ska utlösa en aktionspotential för att signalen ska nå hjärnan. För att en aktionspotentialen ska uppstå och fortleds krävs att natriumjoner kan strömma in genom dessa kanaler- När Lidokain blockerar kanaler förhindras inflöde av natrium
 
 ---
 
