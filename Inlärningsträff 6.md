@@ -104,6 +104,7 @@
 ### Fråga 13: Beskriv den kedja av händelser, som gör att förhöjd osmolaritet hos vävnadsvätskan i hypotalamus, resulterar i att volymen utsöndrad urin minskar.
 
 > [!NOTE] Svar 13
+> När osmolaritet i vävnadsvätskan ökar
 
 ---
 
