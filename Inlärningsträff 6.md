@@ -76,6 +76,7 @@
 ### Fråga 9: Njurarna är viktiga för att olika avfallsprodukter ska särskiljas från övriga delar av blodet för att sedan kunna utsöndras ur kroppen via urinet. Beskriv hur denna process sker. (Tips: rita upp nefronet först).
 
 > [!NOTE] Svar 9
+> Processen börjar med filtration i njurkroppen(glomerulus) där blodplasma filteras ut i Bowmans rum pga tyckskillnader som bildar primärurin. Denna vätska
 > 
 
 ---
