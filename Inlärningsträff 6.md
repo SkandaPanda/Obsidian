@@ -55,7 +55,7 @@
 ### Fråga 6: Beskriv hur triglycerider bryts ned i tunntarmen och hur gallsalter medverkar till denna process.
 
 > [!NOTE] Svar 6
-> Enzymet lipas, från bukspottkörteln, klipper sönder triglycerider till fria fettsyror och monoglycerider. För att effektivisera denna process bryter gallsalterna upp stora fettdroppar till mindre fettdroppar (en process som kallas emulgering), vilket gör att det hydrofila lipaset för bättre tillgänglighet till de hydrofoba triglyceriderna. För att vidmakthålla en effektiv nedbrytning kommer gallsalterna sedan föra bort nedbrytningsprodukterna i strukturer kallade miceller och därmed kommer lipas fortsätta att bryta ned triglyceriderna i fortsatt stor omfattning (tänk på massverkans lag)
+> Enzymet lipas, från bukspottkörteln, klipper sönder triglycerider till fria fettsyror och monoglycerider. För att effektivisera denna process bryter gallsalterna upp stora fettdroppar till mindre fettdroppar (en process som kallas emulgering)(mayonaise), vilket gör att det hydrofila lipaset för bättre tillgänglighet till de hydrofoba triglyceriderna. För att vidmakthålla en effektiv nedbrytning kommer gallsalterna sedan föra bort nedbrytningsprodukterna i strukturer kallade miceller och därmed kommer lipas fortsätta att bryta ned triglyceriderna i fortsatt stor omfattning (tänk på massverkans lag)
 
 ---
 
