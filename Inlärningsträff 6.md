@@ -100,6 +100,24 @@
 > [!NOTE] Svar 12
 > Vid lågt blodtryck i njurens afferenta arteriolerna frisättaer njuren enzymet Renin som startat en kaskadreaktion ( RAAS) där angiotensinogen omvandlas till angiotensin 1 som sedan omvandlas till -"- II med hjälp av enzymet ACE. Angiotensin II stimulerar binjurebarken(adrenal cortex) att frisätta hormonet aldosteron. Aldosteron verkar på njurens distala tubuli och samlingsrör genom att öka reabsorptionen av Na+ joner. Eftersom vatten följer med saltet via osmos, ökar återupptaget av vätska till blodet. Detta sparar vatten i kroppen, höjer Blodtryck och minde urin
 
+Low Blood Pressure in Afferent Arterioles
+          ↓
+Renin Released by Kidneys
+          ↓
+Angiotensinogen → Angiotensin I (via Renin)
+          ↓
+Angiotensin I → Angiotensin II (via ACE)
+          ↓
+Angiotensin II Stimulates Adrenal Cortex
+          ↓
+Aldosterone Released
+          ↓
+Increased Na⁺ and Water Reabsorption in Kidneys
+          ↓
+Increased Blood Volume → Higher Blood Pressure → Reduced Urine Output
+
+
+
 ---
 
 ### Fråga 13: Beskriv den kedja av händelser, som gör att förhöjd osmolaritet hos vävnadsvätskan i hypotalamus, resulterar i att volymen utsöndrad urin minskar.
