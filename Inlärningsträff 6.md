@@ -41,7 +41,7 @@
 ### Fråga 4: I magsäcken sker en del av spjälkningen av proteiner, med hjälp av enzymet Pepsin. Detta enzym produceras av så kallade Huvudceller; en speciell epitelcell i magsäcksslemhinnan. Närvaron av aktivt Pepsin i dessa celler under deras transport i den sekretoriska vägen, skulle innebära att man riskerar bryta ned olika cellulära proteiner. Hur skyddar Huvudcellerna sig från detta problem?
 
 > [!NOTE] Svar 4
-> Det Pepsin som produceras i Huvudcellerna tillverkas i en inaktiv form, som kallas Pepsinogen. Pepsinogen kommer ändra sin konformation vid det låga pH-värdet i magsäckens lumen. Den nya konformationen tillåter Pepsinogen-molekylen att klippa bort en del av sig själv och på det sättet omvandlas till det aktiva enzymet Pepsin
+> Det Pepsin som produceras i Huvudcellerna tillverkas i en inaktiv form, som kallas Pepsinogen. Pepsinogen kommer ändra sin konformation vid det låga pH-värdet i magsäckens lumen. Den nya konformationen tillåter Pepsinogen-molekylen att klippa bort en del av sig själv och på det sättet omvandlas till det aktiva enzymet Pepsin. Kan aktivera andra pepsinogen till pepsin.
 
 ---
 
