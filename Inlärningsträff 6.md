@@ -63,6 +63,7 @@
 
 > [!NOTE] Svar 7
 > CCK utsöndras från epitelceller i duodenum när de registrerar närvaron av fettsyror och peptider i tarmlumen. CCK verkar sedan på 2 olika sätt för att optimera fettnedbrytningen; dels stimulerar gallblåsen att kontrahera som pressar ut galla i tunntarmen för att emulgera(blanda två vätskor som normalt inte vill blandas,) fetterna. Det dels också stimulerar det bukspottkörteln att frisätta enzymrikt bukspott(pancreatic juice) som innehåller lipas, enzymet som krävs för den kemiska spjälkningen av triglyceriderna.
+> CCK is secreted from epithelial cells in the duodenum when they sense the presence of fatty acids and peptides in the intestinal lumen. CCK then acts in two ways to optimize fat breakdown; it stimulates the gallbladder to contract, which squeezes bile into the small intestine to emulsify (mix two liquids that normally do not mix) the fats. It also stimulates the pancreas to release enzyme-rich pancreatic juice that contains lipase, the enzyme required for the chemical digestion of triglycerides.
 
 ---
 
