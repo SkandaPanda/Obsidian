@@ -365,34 +365,7 @@
 
 ### Fråga 14: Hur stimuleras betacellerna i bukspottkörteln att utsöndra insulin, när blodets halt av glukos ökar?
 
-**Enkel Översikt**
 
-1. **Inträde:** Glukos går in i Beta-cellen via transportör.
-    
-2. **Metabolism:** Glukosoxidation $\rightarrow$ ATP ökar.
-    
-3. **K-Kanal:** Högt ATP stänger Kalium ($K^+$)-kanaler.
-    
-4. **Depolarisering:** Cellmembranets potential blir positiv.
-    
-5. **Ca-Kanal:** Spänningskänsliga Kalcium ($Ca^{2+}$)-kanaler öppnas.
-    
-6. **Exocytos:** $Ca^{2+}$-inflöde utlöser att insulinvesiklar smälter samman med membranet $\rightarrow$ Frisättning.
-    
-
-**Detaljerat Svar**
-
-1. När blodsockret stiger går glukos in i beta-cellen via underlättad diffusion (GLUT-transportör).
-    
-2. Inuti cellen metaboliseras (oxideras) glukosen, vilket leder till ökad produktion av **ATP**.
-    
-3. Ökningen av intracellulärt ATP gör att ATP-känsliga **Kalium (**$K^+$**)-kanaler** på cellmembranet **stängs**.
-    
-4. Normalt håller utflödet av $K^+$ cellen negativ. När dessa kanaler stängs byggs positiv laddning upp, vilket orsakar **depolarisering** av membranet.
-    
-5. Denna elektriska förändring öppnar spänningskänsliga **Kalcium (**$Ca^{2+}$**)-kanaler**.
-    
-6. Kalciumjoner strömmar in i cellen. Ökningen av intracellulärt kalcium utlöser förflyttning av vesiklar som innehåller insulin till cellmembranet, där de genomgår **exocytos** och frisätter insulin till blodet.
     
 
 ### Fråga 15: Vilken effekt på utsöndringen av olika hormoner från hypofysens framlob skulle ett avbrott i förbindelsen mellan hypotalamus och hypofysen få?
