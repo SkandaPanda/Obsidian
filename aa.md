@@ -369,8 +369,8 @@
 Glukos tar sig in i betacellen- När blodets glucoskonc. ökar, transporteras glukos in i betaceller i bukspottkörteln genom diffusion via glukos-bärarproteiner i cellmembran, det sker utan att energi kravs.
 2- Det ökad metabolism och ATP-produktion, inne i betacellen oxideras glukosen genom glykolys och citronsyracykeln. Ökande av oxidation av glukos leder till ökar production av ATP, Det mer glukos som finns i blodet desto mer ATP produceras
 
-De ny producerad ATP binder till K+ kanaler i betacellens plasmamembran som är ATP känsliga. När atp binder till dessa kanaler stängs de. Leder till att K+ joner inte längre kan strömma ut ur cellen.
-
+De ny producerad ATP binder till K+ kanaler i betacellens plasmamembran som är ATP känsliga. När atp binder till dessa kanaler stängs de. Leder till att K+ joner inte längre kan strömma ut ur cellen. När de stängs hindras det normala utflöde av postiva kaliumjoner och cellens inre blir mindre negativ/celler blir depolariserad. Membranportentialen förändras från sitt normala vilovärde mot ett mer postivt värde. Depolarisering aktiverar Ca 2+ kanaler i plasmamembranet. 
+När de spänningsreglerade Ca 2+ kanalar öppnas och Ca 2+ flöder in i betacellen från Extrace
 ### Fråga 15: Vilken effekt på utsöndringen av olika hormoner från hypofysens framlob skulle ett avbrott i förbindelsen mellan hypotalamus och hypofysen få?
 
 **Enkel Översikt**
