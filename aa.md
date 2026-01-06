@@ -169,7 +169,7 @@
     - **T-lymfocyter (T-mördar & T-hjälpar):** Dödar infekterade celler; Styr immunsvaret.
         
 
-**Detaljerat Svar**
+[**Detaljerat Svar**]()
 
 - **A) Ej immunförsvaret:**
     
