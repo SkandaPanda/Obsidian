@@ -372,7 +372,9 @@ Glukos tar sig in i betacellen- När blodets glucoskonc. ökar, transporteras gl
 De ny producerad ATP binder till K+ kanaler i betacellens plasmamembran som är ATP känsliga. När atp binder till dessa kanaler stängs de. Leder till att K+ joner inte längre kan strömma ut ur cellen. När de stängs hindras det normala utflöde av postiva kaliumjoner och cellens inre blir mindre negativ/celler blir depolariserad. Membranportentialen förändras från sitt normala vilovärde mot ett mer postivt värde. Depolarisering aktiverar Ca 2+ kanaler i plasmamembranet. 
 När de spänningsreglerade Ca 2+ kanalar öppnas och Ca 2+ flöder in i betacellen från Extracellulära vätskan in i celler blir det en snabbökning av kaliumcon.
 
-Det inflöde av kalcium fungerar som en signal molekyl som aktiverar exocytos av insulin. Betaceller innehåller membranvesiklar fyllda med färdigt insulin. När kalcium konc. ökar i cellen stimuleras vesiklar att binda med plasmamembran genom att kalcium aktiverar spe
+Det inflöde av kalcium fungerar som en signal molekyl som aktiverar exocytos av insulin. Betaceller innehåller membranvesiklar fyllda med färdigt insulin. När kalcium konc. ökar i cellen stimuleras vesiklar att binda med plasmamembran genom att kalcium aktiverar proteiner som tvingar att insulin släppps och når blodomloppet.
+
+Det insulin transporteras genom circulationsystemet till målceller i kroppen framför allt lever och skelettmusklerceller som stimilerar upptag av glukos och sänker gluskoskonc. till normalavärde.
 ### Fråga 15: Vilken effekt på utsöndringen av olika hormoner från hypofysens framlob skulle ett avbrott i förbindelsen mellan hypotalamus och hypofysen få?
 
 **Enkel Översikt**
