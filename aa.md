@@ -199,14 +199,9 @@
 ### Fråga 7: Beskriv hur låg syresättning (hypoxi) kan leda till ökade nivåer av erytrocyter.
 
 **Enkel Översikt**
-
-- **Sensor:** Njurar upptäcker lågt $O_2$.
-    
-- **Hormon:** Erytropoetin (EPO).
-    
-- **Mål:** Röd benmärg.
-    
-- **Effekt:** Ökad produktion (erytropoese) och mognad av röda blodkroppar.
+Svar 7: Hypoxi i njurarna leder till att hormonet Erytropoetin (EPO) utsöndras från särskilda
+celler i detta organ. EPO kommer, via cirkulationssystemet, ta sig till den röda benmärgen. I
+den röda benmärgen kommer EPO stimulera bildandet av fler erytrocyter.
     
 
 **Detaljerat Svar** Kroppen reglerar antalet röda blodkroppar via en negativ återkopplingsloop som involverar njurarna.
