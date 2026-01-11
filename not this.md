@@ -34,7 +34,7 @@ Fråga 5: A) Vad är pH-värdet ett mått på? B) Hur påverkas blodets pH om ma
 
 ---
 
-**Fråga 10: Hur ökar glukagon blodets koncentration av glukos via leverceller?** 44**Svar 10:** Glukagon stimulerar levercellen att höja sin cytosola koncentration av glukos genom 1) nedbrytning av glykogen och 2) ökad produktion av glukos via glukoneogenes45. Eftersom levercellen har bärarproteiner för glukos i membranet, leder den höga inre koncentrationen till att glukos diffunderar ut ur cellen till vävnadsvätskan och vidare till blodet46.
+**Fråga 10: Hur ökar glukagon blodets koncentration av glukos via leverceller?** 44**Svar 10:** Glukagon stimulerar levercellen att höja sin cytosola koncentration av glukos genom 1) nedbrytning av glykogen och 2) ökad produktion av glukos via glukoneogenes45. Eftersom levercellen har bärarproteiner för glukos i membranet, leder den höga inre koncentrationen till att glukos diffunderar ut ur cellen till vävnadsvätskan och vidare till blodet.
 
 ---
 

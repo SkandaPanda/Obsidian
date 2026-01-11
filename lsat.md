@@ -66,9 +66,12 @@ För att kompensera för detta höga pH registrerar kemoreceptorer den låga vä
 4. Vesiklarna smälter samman med cellmembranet (exocytos), vilket gör att antalet aktiva glukostransportörer på cellytan ökar kraftigt.
     
 5. Dessa transportörer möjliggör en **faciliterad diffusion** av glukos från blodet (där koncentrationen är hög) in i cellens cytosol (där koncentrationen är lägre).
+6. 
+Väl inne i cellen stimulerar insulin även enzymer som lagrar glukosen i form av glykogen, vilket upprätthåller koncentrationsgradienten och möjliggör fortsatt upptag. När insulinnivåerna sjunker sker endocytos av transportörerna, och glukosupptaget minskar.
+
     
 
-Väl inne i cellen stimulerar insulin även enzymer som lagrar glukosen i form av glykogen, vilket upprätthåller koncentrationsgradienten och möjliggör fortsatt upptag. När insulinnivåerna sjunker sker endocytos av transportörerna, och glukosupptaget minskar.
+Aktivering av insulinreceptorn stimulerar exocytos av glukosbärarproteiner till cellens plasmamembran . Genom dessa kan glukos tas upp via faciliterad diffusion . För att diffusionen ska fortgå aktiverar insulinsignaleringen även enzymet som omvandlar glukos till glykogen . Detta håller den cytosola koncentrationen av glukos låg så att diffusionen in i cellen vidmakthålls.
 
 ### Fråga 7
 
@@ -92,6 +95,9 @@ Väl inne i cellen stimulerar insulin även enzymer som lagrar glukosen i form a
         
 
 Båda dessa processer leder till en kraftigt ökad koncentration av glukos inne i levercellens cytosol. Detta skapar en koncentrationsgradient som driver glukos ut ur levercellen via faciliterad diffusion och vidare ut i blodet, vilket höjer blodsockernivån.
+
+
+Glukagon stimulerar levercellen att höja sin cytosola koncentration av glukos genom 1) nedbrytning av glykogen och 2) ökad produktion av glukos via glukoneogenes. Eftersom levercellen har bärarproteiner för glukos i membranet, leder den höga inre koncentrationen till att glukos diffunderar ut ur cellen till vävnadsvätskan och vidare till blodet.
 
 ### Fråga 8
 
