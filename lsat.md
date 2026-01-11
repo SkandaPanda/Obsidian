@@ -71,7 +71,7 @@ Väl inne i cellen stimulerar insulin även enzymer som lagrar glukosen i form a
 
     
 
-Aktivering av insulinreceptorn stimulerar exocytos av glukosbärarproteiner till cellens plasmamembran . Genom dessa kan glukos tas upp via faciliterad diffusion . För att diffusionen ska fortgå aktiverar insulinsignaleringen även enzymet som omvandlar glukos till glykogen . Detta håller den cytosola koncentrationen av glukos låg så att diffusionen in i cellen vidmakthålls.
+Aktivering av insulinreceptorn stimulerar exocytos av glukosbärarproteiner till cellens plasmamembran och  glukos tas upp via faciliterad diffusion . För att diffusionen ska ske aktiverar insulinsignaleringen även enzymet som omvandlar glukos till glykogen . Detta håller koncentration av glukos lågt så  att diffusionen in i cellen vidmakthålls.
 
 ### Fråga 7
 
